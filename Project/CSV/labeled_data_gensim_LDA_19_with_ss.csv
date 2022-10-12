@@ -1,0 +1,1733 @@
+,Topic,Sentiment Score,Source,Keywords,Subjectivity Score
+0,11.0,0.096,Bridgemi,"said, one, time, like, day, say, peopl, work, also, year",0.346
+1,18.0,0.103,Bridgemi,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.393
+2,2.0,0.071,Bridgemi,"say, said, time, year, peopl, vaccin, first, like, also, work",0.442
+3,10.0,0.039,Bridgemi,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.312
+4,10.0,0.128,Bridgemi,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.377
+5,11.0,0.113,Bridgemi,"said, one, time, like, day, say, peopl, work, also, year",0.394
+6,11.0,0.083,Bridgemi,"said, one, time, like, day, say, peopl, work, also, year",0.376
+7,2.0,0.096,Bridgemi,"say, said, time, year, peopl, vaccin, first, like, also, work",0.397
+8,8.0,0.077,Bridgemi,"said, say, one, case, also, n’t, day, new, time, get",0.411
+9,8.0,0.098,Bridgemi,"said, say, one, case, also, n’t, day, new, time, get",0.366
+10,5.0,0.115,Bridgemi,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.377
+11,2.0,0.049,Bridgemi,"say, said, time, year, peopl, vaccin, first, like, also, work",0.385
+12,7.0,0.075,Bridgemi,"said, say, peopl, year, also, get, work, one, school, two",0.357
+13,2.0,0.185,Bridgemi,"say, said, time, year, peopl, vaccin, first, like, also, work",0.376
+14,0.0,0.046,Bridgemi,"said, peopl, say, vaccin, one, like, time, get, day, new",0.354
+15,15.0,-0.027,Bridgemi,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.434
+16,15.0,0.429,Bridgemi,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.392
+17,8.0,0.263,Bridgemi,"said, say, one, case, also, n’t, day, new, time, get",0.463
+18,11.0,0.21,Bridgemi,"said, one, time, like, day, say, peopl, work, also, year",0.51
+19,13.0,0.2,Bridgemi,"said, vaccin, say, one, like, also, week, peopl, use, year",0.393
+20,6.0,0.048,Bridgemi,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.394
+21,10.0,0.053,Bridgemi,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.302
+22,15.0,0.153,Bridgemi,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.41
+23,11.0,0.075,Bridgemi,"said, one, time, like, day, say, peopl, work, also, year",0.466
+24,5.0,0.074,Bridgemi,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.476
+25,12.0,0.162,Bridgemi,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.442
+26,14.0,0.054,Bridgemi,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.465
+27,13.0,0.115,Bridgemi,"said, vaccin, say, one, like, also, week, peopl, use, year",0.391
+28,7.0,0.075,BBC,"said, say, peopl, year, also, get, work, one, school, two",0.825
+29,11.0,0.072,BBC,"said, one, time, like, day, say, peopl, work, also, year",0.311
+30,1.0,-0.035,BBC,"said, say, peopl, year, one, time, day, first, like, get",0.528
+31,5.0,0.167,BBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.333
+32,14.0,0.005,BBC,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.408
+33,2.0,0.083,BBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.276
+34,12.0,0.0,BBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.5
+35,11.0,0.333,BBC,"said, one, time, like, day, say, peopl, work, also, year",0.333
+36,14.0,-0.287,BBC,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.694
+37,8.0,-0.078,BBC,"said, say, one, case, also, n’t, day, new, time, get",0.344
+38,6.0,0.25,BBC,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.25
+39,3.0,-0.097,BBC,"said, vaccin, say, peopl, new, report, time, one, also, year",0.264
+40,16.0,0.159,BBC,"said, vaccin, one, peopl, say, get, new, day, time, case",0.341
+41,18.0,-0.033,BBC,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.617
+42,17.0,0.0,BBC,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.0
+43,7.0,0.14,BBC,"said, say, peopl, year, also, get, work, one, school, two",0.435
+44,5.0,0.223,BBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.446
+45,7.0,0.057,BBC,"said, say, peopl, year, also, get, work, one, school, two",0.78
+46,3.0,0.119,BBC,"said, vaccin, say, peopl, new, report, time, one, also, year",0.442
+47,12.0,-0.08,BBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.313
+48,8.0,0.0,BBC,"said, say, one, case, also, n’t, day, new, time, get",0.25
+49,5.0,-0.019,BBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.362
+50,11.0,0.5,BBC,"said, one, time, like, day, say, peopl, work, also, year",0.5
+51,3.0,0.405,BBC,"said, vaccin, say, peopl, new, report, time, one, also, year",0.577
+52,11.0,0.106,BBC,"said, one, time, like, day, say, peopl, work, also, year",0.539
+53,2.0,0.0,BBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.0
+54,5.0,-0.025,BBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.37
+55,10.0,0.075,BBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.142
+56,18.0,0.0,BBC,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.0
+57,2.0,0.333,BBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.504
+58,5.0,-0.25,BBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.4
+59,10.0,0.0,BBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.0
+60,17.0,0.0,BBC,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.0
+61,14.0,0.25,BBC,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.25
+62,1.0,0.167,BBC,"said, say, peopl, year, one, time, day, first, like, get",0.5
+63,8.0,0.123,BBC,"said, say, one, case, also, n’t, day, new, time, get",0.309
+64,18.0,0.275,BBC,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.375
+65,11.0,0.25,BBC,"said, one, time, like, day, say, peopl, work, also, year",0.25
+66,9.0,0.5,BBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.267
+67,11.0,0.286,BBC,"said, one, time, like, day, say, peopl, work, also, year",0.602
+68,10.0,0.4,BBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.4
+69,12.0,-0.025,BBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.125
+70,12.0,0.095,BBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.534
+71,8.0,-0.033,BBC,"said, say, one, case, also, n’t, day, new, time, get",0.033
+72,18.0,0.25,BBC,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.25
+73,4.0,-0.005,BBC,"said, time, say, new, peopl, n’t, like, one, year, take",0.099
+74,3.0,0.25,BBC,"said, vaccin, say, peopl, new, report, time, one, also, year",0.25
+75,5.0,0.0,BBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.0
+76,9.0,0.212,BBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.318
+77,15.0,0.333,BBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.375
+78,15.0,0.01,BBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.475
+79,3.0,0.333,BBC,"said, vaccin, say, peopl, new, report, time, one, also, year",0.333
+80,2.0,0.25,BBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.25
+81,16.0,0.0,BBC,"said, vaccin, one, peopl, say, get, new, day, time, case",0.1
+82,14.0,0.25,BBC,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.25
+83,13.0,0.1,BBC,"said, vaccin, say, one, like, also, week, peopl, use, year",0.3
+84,7.0,0.244,BBC,"said, say, peopl, year, also, get, work, one, school, two",0.411
+85,18.0,0.0,BBC,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.125
+86,0.0,0.0,BBC,"said, peopl, say, vaccin, one, like, time, get, day, new",0.0
+87,10.0,-0.04,BBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.28
+88,12.0,-0.033,BBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.408
+89,7.0,0.067,BBC,"said, say, peopl, year, also, get, work, one, school, two",0.167
+90,10.0,-0.08,BBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.42
+91,17.0,-0.074,BBC,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.231
+92,2.0,-0.286,BBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.563
+93,18.0,-0.089,BBC,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.097
+94,4.0,0.05,BBC,"said, time, say, new, peopl, n’t, like, one, year, take",0.2
+95,10.0,0.0,BBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.15
+96,11.0,-0.012,BBC,"said, one, time, like, day, say, peopl, work, also, year",0.45
+97,6.0,0.04,BBC,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.35
+98,8.0,0.0,BBC,"said, say, one, case, also, n’t, day, new, time, get",0.042
+99,15.0,0.226,BBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.477
+100,13.0,0.3,BBC,"said, vaccin, say, one, like, also, week, peopl, use, year",1.0
+101,9.0,0.054,BBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.325
+102,3.0,0.3,BBC,"said, vaccin, say, peopl, new, report, time, one, also, year",0.4
+103,17.0,0.132,BBC,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.434
+104,2.0,0.178,BBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.394
+105,9.0,-0.025,BBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.5
+106,15.0,0.227,BBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.407
+107,14.0,0.217,BBC,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.417
+108,10.0,-0.1,BBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.35
+109,5.0,0.233,BBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.388
+110,16.0,0.068,BBC,"said, vaccin, one, peopl, say, get, new, day, time, case",0.344
+111,0.0,-0.075,BBC,"said, peopl, say, vaccin, one, like, time, get, day, new",0.433
+112,15.0,0.134,BBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.383
+113,15.0,0.113,BBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.183
+114,2.0,0.0,BBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.0
+115,2.0,0.193,BBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.504
+116,12.0,0.107,BBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.572
+117,2.0,0.1,BBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.454
+118,12.0,0.143,BBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.419
+119,18.0,0.204,BBC,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.485
+120,2.0,0.069,BBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.44
+121,10.0,0.128,BBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.425
+122,12.0,-0.125,BBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.944
+123,5.0,0.213,BBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.498
+124,2.0,0.066,BBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.368
+125,15.0,0.2,BBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.4
+126,12.0,0.483,BBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.583
+127,13.0,-0.25,BBC,"said, vaccin, say, one, like, also, week, peopl, use, year",0.25
+128,1.0,-0.065,BBC,"said, say, peopl, year, one, time, day, first, like, get",0.535
+129,6.0,-0.156,BBC,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.719
+130,15.0,0.133,BBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.5
+131,9.0,-0.009,BBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.48
+132,16.0,0.054,BBC,"said, vaccin, one, peopl, say, get, new, day, time, case",0.336
+133,3.0,0.092,BBC,"said, vaccin, say, peopl, new, report, time, one, also, year",0.395
+134,11.0,0.095,BBC,"said, one, time, like, day, say, peopl, work, also, year",0.455
+135,5.0,-0.058,BBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.312
+136,16.0,0.0,BBC,"said, vaccin, one, peopl, say, get, new, day, time, case",0.0
+137,10.0,0.25,BBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.4
+138,5.0,0.5,BBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.55
+139,15.0,-0.378,BBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.644
+140,14.0,-0.053,BBC,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.247
+141,17.0,0.6,BBC,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.95
+142,16.0,-0.003,BBC,"said, vaccin, one, peopl, say, get, new, day, time, case",0.282
+143,4.0,0.3,BBC,"said, time, say, new, peopl, n’t, like, one, year, take",0.1
+144,11.0,0.0,BBC,"said, one, time, like, day, say, peopl, work, also, year",0.0
+145,5.0,-0.062,BBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.357
+146,1.0,0.75,BBC,"said, say, peopl, year, one, time, day, first, like, get",0.95
+147,0.0,0.044,BBC,"said, peopl, say, vaccin, one, like, time, get, day, new",0.301
+148,17.0,-0.038,BBC,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.338
+149,2.0,0.075,BBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.358
+150,12.0,0.353,BBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.431
+151,11.0,0.138,BBC,"said, one, time, like, day, say, peopl, work, also, year",0.588
+152,11.0,0.21,BBC,"said, one, time, like, day, say, peopl, work, also, year",0.3
+153,18.0,0.2,BBC,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.471
+154,12.0,0.29,BBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.591
+155,15.0,0.0,BBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.083
+156,15.0,0.5,BBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.15
+157,7.0,0.2,BBC,"said, say, peopl, year, also, get, work, one, school, two",0.483
+158,1.0,-0.2,BBC,"said, say, peopl, year, one, time, day, first, like, get",0.55
+159,7.0,0.0,BBC,"said, say, peopl, year, also, get, work, one, school, two",0.0
+160,5.0,0.167,CNN,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.542
+161,9.0,0.0,CNN,"said, peopl, year, vaccin, like, first, also, time, back, one",0.3
+162,9.0,0.069,CNN,"said, peopl, year, vaccin, like, first, also, time, back, one",0.382
+163,16.0,0.251,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.528
+164,2.0,-0.092,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.491
+165,15.0,0.11,CNN,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.411
+166,5.0,0.068,CNN,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.291
+167,4.0,-0.004,CNN,"said, time, say, new, peopl, n’t, like, one, year, take",0.512
+168,7.0,0.125,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.398
+169,14.0,0.01,CNN,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.324
+170,9.0,0.135,CNN,"said, peopl, year, vaccin, like, first, also, time, back, one",0.509
+171,7.0,0.094,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.669
+172,7.0,0.1,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.359
+173,2.0,0.132,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.391
+174,2.0,0.228,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.505
+175,16.0,0.262,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.424
+176,9.0,0.13,CNN,"said, peopl, year, vaccin, like, first, also, time, back, one",0.474
+177,2.0,0.197,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.508
+178,18.0,0.154,CNN,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.397
+179,17.0,0.127,CNN,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.439
+180,2.0,0.136,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.475
+181,2.0,0.283,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.615
+182,2.0,0.28,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.507
+183,13.0,0.19,CNN,"said, vaccin, say, one, like, also, week, peopl, use, year",0.414
+184,2.0,0.215,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.509
+185,16.0,0.013,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.447
+186,9.0,0.216,CNN,"said, peopl, year, vaccin, like, first, also, time, back, one",0.602
+187,9.0,0.228,CNN,"said, peopl, year, vaccin, like, first, also, time, back, one",0.566
+188,15.0,0.142,CNN,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.553
+189,15.0,0.276,CNN,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.582
+190,16.0,0.161,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.374
+191,4.0,0.221,CNN,"said, time, say, new, peopl, n’t, like, one, year, take",0.501
+192,2.0,0.257,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.455
+193,2.0,0.104,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.396
+194,11.0,0.027,CNN,"said, one, time, like, day, say, peopl, work, also, year",0.408
+195,18.0,0.219,CNN,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.462
+196,8.0,0.327,CNN,"said, say, one, case, also, n’t, day, new, time, get",0.449
+197,15.0,0.286,CNN,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.568
+198,4.0,0.178,CNN,"said, time, say, new, peopl, n’t, like, one, year, take",0.436
+199,9.0,0.126,CNN,"said, peopl, year, vaccin, like, first, also, time, back, one",0.478
+200,2.0,0.052,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.478
+201,7.0,0.226,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.46
+202,7.0,0.127,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.454
+203,2.0,0.194,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.507
+204,11.0,0.234,CNN,"said, one, time, like, day, say, peopl, work, also, year",0.577
+205,2.0,0.032,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.485
+206,17.0,0.072,CNN,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.492
+207,15.0,0.138,CNN,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.455
+208,2.0,0.123,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.47
+209,15.0,0.103,CNN,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.461
+210,1.0,0.116,CNN,"said, say, peopl, year, one, time, day, first, like, get",0.393
+211,2.0,0.086,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.403
+212,7.0,0.115,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.387
+213,0.0,0.096,CNN,"said, peopl, say, vaccin, one, like, time, get, day, new",0.366
+214,18.0,0.166,CNN,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.477
+215,12.0,0.062,CNN,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.481
+216,16.0,0.209,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.495
+217,2.0,0.085,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.406
+218,15.0,0.189,CNN,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.3
+219,14.0,-0.026,CNN,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.483
+220,4.0,0.2,CNN,"said, time, say, new, peopl, n’t, like, one, year, take",0.456
+221,8.0,0.09,CNN,"said, say, one, case, also, n’t, day, new, time, get",0.344
+222,6.0,0.046,CNN,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.432
+223,17.0,0.077,CNN,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.334
+224,2.0,0.043,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.451
+225,2.0,0.163,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.451
+226,18.0,0.039,CNN,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.372
+227,17.0,0.182,CNN,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.371
+228,7.0,0.134,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.492
+229,2.0,0.079,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.411
+230,6.0,0.118,CNN,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.406
+231,13.0,0.126,CNN,"said, vaccin, say, one, like, also, week, peopl, use, year",0.516
+232,10.0,0.063,CNN,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.333
+233,3.0,0.173,CNN,"said, vaccin, say, peopl, new, report, time, one, also, year",0.532
+234,16.0,0.034,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.332
+235,7.0,0.13,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.448
+236,7.0,0.305,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.516
+237,12.0,0.096,CNN,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.321
+238,16.0,-0.004,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.335
+239,15.0,0.06,CNN,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.362
+240,6.0,0.105,CNN,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.418
+241,7.0,0.106,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.387
+242,11.0,0.017,CNN,"said, one, time, like, day, say, peopl, work, also, year",0.358
+243,11.0,0.053,CNN,"said, one, time, like, day, say, peopl, work, also, year",0.402
+244,7.0,0.018,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.459
+245,11.0,0.066,CNN,"said, one, time, like, day, say, peopl, work, also, year",0.402
+246,7.0,0.076,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.498
+247,14.0,0.0,CNN,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.0
+248,8.0,0.5,CNN,"said, say, one, case, also, n’t, day, new, time, get",0.5
+249,16.0,0.1,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.403
+250,17.0,0.306,CNN,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.499
+251,3.0,0.446,CNN,"said, vaccin, say, peopl, new, report, time, one, also, year",0.434
+252,15.0,0.287,CNN,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.433
+253,16.0,0.0,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.0
+254,8.0,0.167,CNN,"said, say, one, case, also, n’t, day, new, time, get",0.5
+255,9.0,0.0,CNN,"said, peopl, year, vaccin, like, first, also, time, back, one",0.0
+256,5.0,0.55,CNN,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.7
+257,15.0,0.112,CNN,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.252
+258,9.0,0.15,CNN,"said, peopl, year, vaccin, like, first, also, time, back, one",0.35
+259,5.0,0.115,CNN,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.596
+260,2.0,0.135,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.393
+261,13.0,0.055,CNN,"said, vaccin, say, one, like, also, week, peopl, use, year",0.346
+262,17.0,0.308,CNN,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.514
+263,8.0,0.128,CNN,"said, say, one, case, also, n’t, day, new, time, get",0.449
+264,5.0,0.026,CNN,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.426
+265,16.0,0.164,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.502
+266,16.0,0.16,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.45
+267,5.0,0.06,CNN,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.312
+268,5.0,-0.433,CNN,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.6
+269,11.0,-0.034,CNN,"said, one, time, like, day, say, peopl, work, also, year",0.345
+270,2.0,0.05,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.256
+271,10.0,0.007,CNN,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.262
+272,2.0,0.103,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.509
+273,15.0,0.048,CNN,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.347
+274,3.0,0.216,CNN,"said, vaccin, say, peopl, new, report, time, one, also, year",0.517
+275,0.0,0.167,CNN,"said, peopl, say, vaccin, one, like, time, get, day, new",0.452
+276,0.0,0.142,CNN,"said, peopl, say, vaccin, one, like, time, get, day, new",0.4
+277,13.0,0.08,CNN,"said, vaccin, say, one, like, also, week, peopl, use, year",0.42
+278,7.0,0.068,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.199
+279,1.0,0.053,CNN,"said, say, peopl, year, one, time, day, first, like, get",0.358
+280,2.0,0.044,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.349
+281,10.0,0.11,CNN,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.301
+282,10.0,0.177,CNN,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.341
+283,18.0,-0.006,CNN,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.456
+284,2.0,0.03,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.393
+285,3.0,-0.022,CNN,"said, vaccin, say, peopl, new, report, time, one, also, year",0.422
+286,3.0,0.054,CNN,"said, vaccin, say, peopl, new, report, time, one, also, year",0.362
+287,11.0,0.125,CNN,"said, one, time, like, day, say, peopl, work, also, year",0.329
+288,1.0,-0.005,CNN,"said, say, peopl, year, one, time, day, first, like, get",0.374
+289,18.0,0.063,CNN,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.276
+290,2.0,0.075,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.402
+291,14.0,0.024,CNN,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.447
+292,18.0,0.067,CNN,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.131
+293,13.0,0.042,CNN,"said, vaccin, say, one, like, also, week, peopl, use, year",0.468
+294,14.0,0.114,CNN,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.433
+295,7.0,0.004,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.443
+296,12.0,0.134,CNN,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.342
+297,13.0,0.013,CNN,"said, vaccin, say, one, like, also, week, peopl, use, year",0.381
+298,2.0,0.032,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.42
+299,1.0,0.013,CNN,"said, say, peopl, year, one, time, day, first, like, get",0.392
+300,13.0,0.038,CNN,"said, vaccin, say, one, like, also, week, peopl, use, year",0.4
+301,5.0,0.236,CNN,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.448
+302,2.0,0.168,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.489
+303,2.0,0.136,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.365
+304,11.0,0.216,CNN,"said, one, time, like, day, say, peopl, work, also, year",0.472
+305,15.0,0.185,CNN,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.417
+306,17.0,0.091,CNN,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.392
+307,13.0,0.155,CNN,"said, vaccin, say, one, like, also, week, peopl, use, year",0.363
+308,10.0,0.212,CNN,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.47
+309,3.0,0.202,CNN,"said, vaccin, say, peopl, new, report, time, one, also, year",0.471
+310,14.0,0.071,CNN,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.272
+311,5.0,0.184,CNN,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.445
+312,7.0,-0.027,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.325
+313,7.0,0.139,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.382
+314,10.0,0.319,CNN,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.527
+315,6.0,0.177,CNN,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.373
+316,2.0,0.093,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.384
+317,0.0,0.105,CNN,"said, peopl, say, vaccin, one, like, time, get, day, new",0.344
+318,17.0,0.057,CNN,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.424
+319,18.0,0.093,CNN,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.481
+320,11.0,0.129,CNN,"said, one, time, like, day, say, peopl, work, also, year",0.425
+321,2.0,0.136,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.458
+322,7.0,0.119,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.446
+323,16.0,0.162,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.469
+324,7.0,0.093,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.372
+325,13.0,0.445,CNN,"said, vaccin, say, one, like, also, week, peopl, use, year",0.332
+326,5.0,0.151,CNN,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.487
+327,0.0,0.201,CNN,"said, peopl, say, vaccin, one, like, time, get, day, new",0.496
+328,18.0,0.171,CNN,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.455
+329,16.0,0.133,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.439
+330,16.0,0.114,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.469
+331,16.0,0.16,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.497
+332,8.0,0.067,CNN,"said, say, one, case, also, n’t, day, new, time, get",0.433
+333,18.0,0.178,CNN,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.54
+334,0.0,0.219,CNN,"said, peopl, say, vaccin, one, like, time, get, day, new",0.501
+335,15.0,0.095,CNN,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.426
+336,11.0,0.14,CNN,"said, one, time, like, day, say, peopl, work, also, year",0.401
+337,13.0,0.094,CNN,"said, vaccin, say, one, like, also, week, peopl, use, year",0.476
+338,10.0,0.057,CNN,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.445
+339,14.0,0.068,CNN,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.394
+340,8.0,0.387,CNN,"said, say, one, case, also, n’t, day, new, time, get",0.502
+341,16.0,0.072,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.508
+342,7.0,0.176,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.45
+343,17.0,0.187,CNN,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.453
+344,1.0,0.139,CNN,"said, say, peopl, year, one, time, day, first, like, get",0.386
+345,8.0,0.132,CNN,"said, say, one, case, also, n’t, day, new, time, get",0.481
+346,3.0,-0.0,CNN,"said, vaccin, say, peopl, new, report, time, one, also, year",0.421
+347,2.0,-0.005,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.427
+348,16.0,0.052,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.391
+349,1.0,0.082,CNN,"said, say, peopl, year, one, time, day, first, like, get",0.465
+350,1.0,0.065,CNN,"said, say, peopl, year, one, time, day, first, like, get",0.464
+351,15.0,-0.003,CNN,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.35
+352,12.0,0.151,CNN,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.377
+353,16.0,0.193,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.344
+354,11.0,0.0,CNN,"said, one, time, like, day, say, peopl, work, also, year",0.0
+355,16.0,0.193,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.47
+356,11.0,0.186,CNN,"said, one, time, like, day, say, peopl, work, also, year",0.488
+357,5.0,0.096,CNN,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.429
+358,5.0,0.129,CNN,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.433
+359,9.0,0.18,CNN,"said, peopl, year, vaccin, like, first, also, time, back, one",0.476
+360,10.0,0.346,CNN,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.489
+361,14.0,0.374,CNN,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.538
+362,7.0,-0.475,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.7
+363,11.0,0.119,CNN,"said, one, time, like, day, say, peopl, work, also, year",0.578
+364,3.0,0.36,CNN,"said, vaccin, say, peopl, new, report, time, one, also, year",0.524
+365,12.0,0.246,CNN,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.538
+366,14.0,0.264,CNN,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.582
+367,9.0,0.271,CNN,"said, peopl, year, vaccin, like, first, also, time, back, one",0.406
+368,14.0,0.419,CNN,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.68
+369,14.0,0.025,CNN,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.512
+370,14.0,0.236,CNN,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.412
+371,13.0,0.126,CNN,"said, vaccin, say, one, like, also, week, peopl, use, year",0.308
+372,2.0,0.052,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.499
+373,2.0,0.333,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.558
+374,14.0,0.153,CNN,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.481
+375,9.0,0.104,CNN,"said, peopl, year, vaccin, like, first, also, time, back, one",0.416
+376,3.0,0.121,CNN,"said, vaccin, say, peopl, new, report, time, one, also, year",0.242
+377,7.0,0.055,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.368
+378,1.0,-0.028,CNN,"said, say, peopl, year, one, time, day, first, like, get",0.643
+379,4.0,0.264,CNN,"said, time, say, new, peopl, n’t, like, one, year, take",0.582
+380,14.0,0.124,CNN,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.48
+381,12.0,0.148,CNN,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.493
+382,11.0,0.086,CNN,"said, one, time, like, day, say, peopl, work, also, year",0.286
+383,11.0,0.114,CNN,"said, one, time, like, day, say, peopl, work, also, year",0.554
+384,13.0,0.063,CNN,"said, vaccin, say, one, like, also, week, peopl, use, year",0.562
+385,16.0,0.257,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.525
+386,14.0,0.154,CNN,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.508
+387,7.0,0.064,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.268
+388,10.0,0.054,CNN,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.263
+389,9.0,0.39,CNN,"said, peopl, year, vaccin, like, first, also, time, back, one",0.598
+390,8.0,0.232,CNN,"said, say, one, case, also, n’t, day, new, time, get",0.386
+391,6.0,0.024,CNN,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.551
+392,16.0,0.104,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.336
+393,10.0,0.15,CNN,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.409
+394,8.0,0.132,CNN,"said, say, one, case, also, n’t, day, new, time, get",0.495
+395,15.0,0.068,CNN,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.414
+396,5.0,0.163,CNN,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.518
+397,7.0,0.073,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.358
+398,2.0,0.177,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.447
+399,7.0,0.171,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.461
+400,16.0,0.108,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.454
+401,13.0,0.199,CNN,"said, vaccin, say, one, like, also, week, peopl, use, year",0.551
+402,3.0,0.287,CNN,"said, vaccin, say, peopl, new, report, time, one, also, year",0.55
+403,2.0,0.191,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.482
+404,12.0,0.179,CNN,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.43
+405,0.0,0.147,CNN,"said, peopl, say, vaccin, one, like, time, get, day, new",0.461
+406,7.0,0.071,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.461
+407,15.0,0.022,CNN,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.351
+408,10.0,0.06,CNN,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.358
+409,7.0,0.069,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.418
+410,2.0,0.002,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.41
+411,5.0,0.25,CNN,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.5
+412,7.0,0.409,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.455
+413,5.0,0.053,CNN,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.4
+414,8.0,0.141,CNN,"said, say, one, case, also, n’t, day, new, time, get",0.448
+415,11.0,0.071,CNN,"said, one, time, like, day, say, peopl, work, also, year",0.461
+416,13.0,0.131,CNN,"said, vaccin, say, one, like, also, week, peopl, use, year",0.419
+417,7.0,0.135,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.425
+418,3.0,0.12,CNN,"said, vaccin, say, peopl, new, report, time, one, also, year",0.394
+419,7.0,0.067,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.404
+420,1.0,0.13,CNN,"said, say, peopl, year, one, time, day, first, like, get",0.474
+421,1.0,0.189,CNN,"said, say, peopl, year, one, time, day, first, like, get",0.43
+422,16.0,0.228,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.442
+423,16.0,0.149,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.373
+424,11.0,0.123,CNN,"said, one, time, like, day, say, peopl, work, also, year",0.413
+425,0.0,0.134,CNN,"said, peopl, say, vaccin, one, like, time, get, day, new",0.46
+426,1.0,0.177,CNN,"said, say, peopl, year, one, time, day, first, like, get",0.506
+427,0.0,0.17,CNN,"said, peopl, say, vaccin, one, like, time, get, day, new",0.433
+428,14.0,0.144,CNN,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.423
+429,11.0,0.104,CNN,"said, one, time, like, day, say, peopl, work, also, year",0.297
+430,7.0,0.121,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.385
+431,12.0,0.137,CNN,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.454
+432,2.0,-0.032,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.528
+433,16.0,0.063,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.419
+434,8.0,0.104,CNN,"said, say, one, case, also, n’t, day, new, time, get",0.393
+435,13.0,0.105,CNN,"said, vaccin, say, one, like, also, week, peopl, use, year",0.478
+436,12.0,0.137,CNN,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.403
+437,2.0,0.102,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.397
+438,16.0,0.156,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.369
+439,7.0,0.116,CNN,"said, say, peopl, year, also, get, work, one, school, two",0.406
+440,2.0,0.087,CNN,"say, said, time, year, peopl, vaccin, first, like, also, work",0.4
+441,10.0,0.167,CNN,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.504
+442,10.0,0.151,CNN,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.432
+443,16.0,0.084,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.456
+444,0.0,0.197,CNN,"said, peopl, say, vaccin, one, like, time, get, day, new",0.477
+445,9.0,0.166,CNN,"said, peopl, year, vaccin, like, first, also, time, back, one",0.489
+446,8.0,0.053,CNN,"said, say, one, case, also, n’t, day, new, time, get",0.404
+447,9.0,0.135,CNN,"said, peopl, year, vaccin, like, first, also, time, back, one",0.457
+448,5.0,0.205,CNN,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.485
+449,3.0,0.125,CNN,"said, vaccin, say, peopl, new, report, time, one, also, year",0.467
+450,16.0,0.188,CNN,"said, vaccin, one, peopl, say, get, new, day, time, case",0.486
+451,5.0,0.182,NBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.511
+452,0.0,0.172,NBC,"said, peopl, say, vaccin, one, like, time, get, day, new",0.44
+453,12.0,0.27,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.57
+454,14.0,0.156,NBC,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.432
+455,17.0,0.159,NBC,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.436
+456,9.0,0.066,NBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.388
+457,13.0,-0.072,NBC,"said, vaccin, say, one, like, also, week, peopl, use, year",0.464
+458,15.0,0.057,NBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.432
+459,15.0,0.156,NBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.465
+460,16.0,0.122,NBC,"said, vaccin, one, peopl, say, get, new, day, time, case",0.415
+461,15.0,0.085,NBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.448
+462,15.0,0.156,NBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.431
+463,10.0,0.117,NBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.431
+464,6.0,0.086,NBC,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.472
+465,2.0,0.167,NBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.495
+466,12.0,0.151,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.553
+467,0.0,0.116,NBC,"said, peopl, say, vaccin, one, like, time, get, day, new",0.543
+468,15.0,0.148,NBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.477
+469,16.0,0.162,NBC,"said, vaccin, one, peopl, say, get, new, day, time, case",0.533
+470,4.0,0.018,NBC,"said, time, say, new, peopl, n’t, like, one, year, take",0.501
+471,5.0,0.141,NBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.49
+472,12.0,0.057,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.625
+473,10.0,0.098,NBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.498
+474,16.0,0.241,NBC,"said, vaccin, one, peopl, say, get, new, day, time, case",0.583
+475,12.0,0.116,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.563
+476,18.0,0.189,NBC,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.456
+477,11.0,-0.015,NBC,"said, one, time, like, day, say, peopl, work, also, year",0.663
+478,12.0,0.213,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.566
+479,12.0,-0.003,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.538
+480,12.0,0.178,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.525
+481,12.0,0.141,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.48
+482,12.0,0.158,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.515
+483,16.0,0.131,NBC,"said, vaccin, one, peopl, say, get, new, day, time, case",0.477
+484,12.0,-0.0,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.589
+485,11.0,0.168,NBC,"said, one, time, like, day, say, peopl, work, also, year",0.571
+486,2.0,0.249,NBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.662
+487,10.0,-0.131,NBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.597
+488,12.0,0.161,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.579
+489,12.0,0.059,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.546
+490,12.0,0.189,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.539
+491,1.0,0.1,NBC,"said, say, peopl, year, one, time, day, first, like, get",0.426
+492,12.0,0.069,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.407
+493,13.0,0.174,NBC,"said, vaccin, say, one, like, also, week, peopl, use, year",0.569
+494,2.0,0.105,NBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.495
+495,8.0,0.057,NBC,"said, say, one, case, also, n’t, day, new, time, get",0.433
+496,5.0,0.082,NBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.433
+497,12.0,0.167,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.49
+498,4.0,0.358,NBC,"said, time, say, new, peopl, n’t, like, one, year, take",0.505
+499,4.0,0.217,NBC,"said, time, say, new, peopl, n’t, like, one, year, take",0.556
+500,12.0,0.3,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.57
+501,12.0,0.254,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.457
+502,12.0,0.287,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.505
+503,12.0,0.227,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.526
+504,7.0,0.258,NBC,"said, say, peopl, year, also, get, work, one, school, two",0.488
+505,4.0,0.042,NBC,"said, time, say, new, peopl, n’t, like, one, year, take",0.427
+506,18.0,0.193,NBC,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.575
+507,18.0,0.115,NBC,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.605
+508,12.0,0.196,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.536
+509,12.0,0.292,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.613
+510,17.0,0.15,NBC,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.714
+511,8.0,0.137,NBC,"said, say, one, case, also, n’t, day, new, time, get",0.476
+512,16.0,0.155,NBC,"said, vaccin, one, peopl, say, get, new, day, time, case",0.455
+513,0.0,0.137,NBC,"said, peopl, say, vaccin, one, like, time, get, day, new",0.458
+514,4.0,0.149,NBC,"said, time, say, new, peopl, n’t, like, one, year, take",0.447
+515,0.0,0.136,NBC,"said, peopl, say, vaccin, one, like, time, get, day, new",0.453
+516,9.0,0.625,NBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.558
+517,15.0,0.149,NBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.427
+518,1.0,0.134,NBC,"said, say, peopl, year, one, time, day, first, like, get",0.415
+519,15.0,0.146,NBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.408
+520,1.0,0.081,NBC,"said, say, peopl, year, one, time, day, first, like, get",0.429
+521,13.0,0.0,NBC,"said, vaccin, say, one, like, also, week, peopl, use, year",0.0
+522,18.0,0.185,NBC,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.444
+523,9.0,0.2,NBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.2
+524,4.0,0.207,NBC,"said, time, say, new, peopl, n’t, like, one, year, take",0.514
+525,9.0,0.044,NBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.278
+526,1.0,0.219,NBC,"said, say, peopl, year, one, time, day, first, like, get",0.478
+527,12.0,0.2,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.476
+528,14.0,0.248,NBC,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.551
+529,12.0,0.181,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.496
+530,12.0,0.253,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.52
+531,12.0,0.198,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.559
+532,18.0,0.169,NBC,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.564
+533,18.0,0.079,NBC,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.497
+534,18.0,0.094,NBC,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.461
+535,16.0,0.099,NBC,"said, vaccin, one, peopl, say, get, new, day, time, case",0.439
+536,18.0,0.421,NBC,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.492
+537,7.0,0.164,NBC,"said, say, peopl, year, also, get, work, one, school, two",0.422
+538,0.0,0.122,NBC,"said, peopl, say, vaccin, one, like, time, get, day, new",0.506
+539,15.0,0.196,NBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.518
+540,10.0,0.195,NBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.442
+541,5.0,0.5,NBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.5
+542,0.0,0.2,NBC,"said, peopl, say, vaccin, one, like, time, get, day, new",0.8
+543,10.0,0.095,NBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.427
+544,10.0,0.037,NBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.378
+545,12.0,0.017,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.427
+546,10.0,0.129,NBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.296
+547,7.0,0.029,NBC,"said, say, peopl, year, also, get, work, one, school, two",0.437
+548,13.0,0.015,NBC,"said, vaccin, say, one, like, also, week, peopl, use, year",0.54
+549,3.0,0.084,NBC,"said, vaccin, say, peopl, new, report, time, one, also, year",0.38
+550,6.0,0.071,NBC,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.38
+551,16.0,0.096,NBC,"said, vaccin, one, peopl, say, get, new, day, time, case",0.402
+552,1.0,-0.013,NBC,"said, say, peopl, year, one, time, day, first, like, get",0.286
+553,13.0,0.042,NBC,"said, vaccin, say, one, like, also, week, peopl, use, year",0.324
+554,15.0,0.184,NBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.428
+555,1.0,0.2,NBC,"said, say, peopl, year, one, time, day, first, like, get",0.4
+556,5.0,-0.099,NBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.437
+557,10.0,0.004,NBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.375
+558,9.0,0.09,NBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.363
+559,17.0,-0.02,NBC,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.172
+560,10.0,-0.008,NBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.337
+561,0.0,0.177,NBC,"said, peopl, say, vaccin, one, like, time, get, day, new",0.473
+562,8.0,0.14,NBC,"said, say, one, case, also, n’t, day, new, time, get",0.416
+563,11.0,0.111,NBC,"said, one, time, like, day, say, peopl, work, also, year",0.41
+564,9.0,0.004,NBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.463
+565,9.0,0.115,NBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.45
+566,5.0,0.152,NBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.522
+567,0.0,0.087,NBC,"said, peopl, say, vaccin, one, like, time, get, day, new",0.407
+568,0.0,0.043,NBC,"said, peopl, say, vaccin, one, like, time, get, day, new",0.431
+569,16.0,0.078,NBC,"said, vaccin, one, peopl, say, get, new, day, time, case",0.369
+570,0.0,0.079,NBC,"said, peopl, say, vaccin, one, like, time, get, day, new",0.44
+571,10.0,0.067,NBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.503
+572,9.0,0.075,NBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.397
+573,10.0,-0.001,NBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.365
+574,11.0,-0.045,NBC,"said, one, time, like, day, say, peopl, work, also, year",0.466
+575,15.0,0.138,NBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.542
+576,9.0,-0.029,NBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.378
+577,8.0,0.045,NBC,"said, say, one, case, also, n’t, day, new, time, get",0.453
+578,11.0,0.108,NBC,"said, one, time, like, day, say, peopl, work, also, year",0.444
+579,8.0,0.056,NBC,"said, say, one, case, also, n’t, day, new, time, get",0.371
+580,1.0,0.468,NBC,"said, say, peopl, year, one, time, day, first, like, get",0.677
+581,15.0,0.067,NBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.15
+582,8.0,0.068,NBC,"said, say, one, case, also, n’t, day, new, time, get",0.25
+583,7.0,-0.06,NBC,"said, say, peopl, year, also, get, work, one, school, two",0.359
+584,4.0,0.166,NBC,"said, time, say, new, peopl, n’t, like, one, year, take",0.409
+585,14.0,0.07,NBC,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.413
+586,9.0,0.019,NBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.492
+587,5.0,0.108,NBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.403
+588,7.0,0.067,NBC,"said, say, peopl, year, also, get, work, one, school, two",0.495
+589,8.0,0.067,NBC,"said, say, one, case, also, n’t, day, new, time, get",0.29
+590,18.0,0.071,NBC,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.426
+591,14.0,0.113,NBC,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.435
+592,7.0,0.115,NBC,"said, say, peopl, year, also, get, work, one, school, two",0.425
+593,7.0,0.031,NBC,"said, say, peopl, year, also, get, work, one, school, two",0.217
+594,8.0,-0.25,NBC,"said, say, one, case, also, n’t, day, new, time, get",0.2
+595,15.0,0.068,NBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.42
+596,2.0,0.202,NBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.462
+597,5.0,0.161,NBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.453
+598,5.0,0.0,NBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.0
+599,15.0,0.24,NBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.465
+600,8.0,-0.167,NBC,"said, say, one, case, also, n’t, day, new, time, get",0.433
+601,18.0,0.103,NBC,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.528
+602,8.0,-0.013,NBC,"said, say, one, case, also, n’t, day, new, time, get",0.403
+603,9.0,0.079,NBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.456
+604,8.0,0.167,NBC,"said, say, one, case, also, n’t, day, new, time, get",0.421
+605,4.0,0.007,NBC,"said, time, say, new, peopl, n’t, like, one, year, take",0.396
+606,0.0,0.05,NBC,"said, peopl, say, vaccin, one, like, time, get, day, new",0.311
+607,9.0,0.2,NBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.436
+608,11.0,0.077,NBC,"said, one, time, like, day, say, peopl, work, also, year",0.308
+609,8.0,0.004,NBC,"said, say, one, case, also, n’t, day, new, time, get",0.342
+610,7.0,0.097,NBC,"said, say, peopl, year, also, get, work, one, school, two",0.343
+611,8.0,0.045,NBC,"said, say, one, case, also, n’t, day, new, time, get",0.361
+612,12.0,0.193,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.459
+613,12.0,0.211,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.477
+614,2.0,0.051,NBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.521
+615,8.0,0.1,NBC,"said, say, one, case, also, n’t, day, new, time, get",0.1
+616,10.0,0.04,NBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.408
+617,1.0,0.161,NBC,"said, say, peopl, year, one, time, day, first, like, get",0.447
+618,10.0,0.026,NBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.412
+619,10.0,0.149,NBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.325
+620,1.0,0.073,NBC,"said, say, peopl, year, one, time, day, first, like, get",0.433
+621,6.0,0.218,NBC,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.488
+622,8.0,0.032,NBC,"said, say, one, case, also, n’t, day, new, time, get",0.377
+623,12.0,0.129,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.429
+624,9.0,0.043,NBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.45
+625,1.0,0.1,NBC,"said, say, peopl, year, one, time, day, first, like, get",0.424
+626,12.0,0.167,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.476
+627,6.0,0.038,NBC,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.296
+628,12.0,0.157,NBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.35
+629,1.0,-0.098,NBC,"said, say, peopl, year, one, time, day, first, like, get",0.389
+630,18.0,0.161,NBC,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.434
+631,4.0,-0.119,NBC,"said, time, say, new, peopl, n’t, like, one, year, take",0.496
+632,7.0,0.167,NBC,"said, say, peopl, year, also, get, work, one, school, two",0.167
+633,15.0,0.075,NBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.467
+634,15.0,0.125,NBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.452
+635,16.0,0.084,NBC,"said, vaccin, one, peopl, say, get, new, day, time, case",0.352
+636,11.0,0.145,FOX,"said, one, time, like, day, say, peopl, work, also, year",0.315
+637,10.0,0.047,FOX,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.341
+638,13.0,0.064,FOX,"said, vaccin, say, one, like, also, week, peopl, use, year",0.378
+639,7.0,0.129,FOX,"said, say, peopl, year, also, get, work, one, school, two",0.436
+640,9.0,0.074,FOX,"said, peopl, year, vaccin, like, first, also, time, back, one",0.408
+641,3.0,0.118,FOX,"said, vaccin, say, peopl, new, report, time, one, also, year",0.447
+642,6.0,0.013,FOX,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.43
+643,12.0,0.137,FOX,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.445
+644,18.0,0.04,FOX,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.475
+645,11.0,-0.028,FOX,"said, one, time, like, day, say, peopl, work, also, year",0.416
+646,13.0,0.03,FOX,"said, vaccin, say, one, like, also, week, peopl, use, year",0.287
+647,5.0,0.055,FOX,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.342
+648,8.0,0.116,FOX,"said, say, one, case, also, n’t, day, new, time, get",0.367
+649,9.0,-0.154,FOX,"said, peopl, year, vaccin, like, first, also, time, back, one",0.364
+650,15.0,0.078,FOX,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.252
+651,7.0,-0.059,FOX,"said, say, peopl, year, also, get, work, one, school, two",0.278
+652,1.0,0.045,FOX,"said, say, peopl, year, one, time, day, first, like, get",0.408
+653,2.0,0.117,FOX,"say, said, time, year, peopl, vaccin, first, like, also, work",0.4
+654,18.0,0.049,FOX,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.35
+655,9.0,-0.123,FOX,"said, peopl, year, vaccin, like, first, also, time, back, one",0.567
+656,10.0,0.056,FOX,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.366
+657,5.0,0.081,FOX,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.408
+658,4.0,0.313,FOX,"said, time, say, new, peopl, n’t, like, one, year, take",0.609
+659,14.0,0.119,FOX,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.467
+660,15.0,0.046,FOX,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.474
+661,1.0,-0.04,FOX,"said, say, peopl, year, one, time, day, first, like, get",0.496
+662,11.0,-0.003,FOX,"said, one, time, like, day, say, peopl, work, also, year",0.339
+663,5.0,0.233,FOX,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.494
+664,2.0,0.207,FOX,"say, said, time, year, peopl, vaccin, first, like, also, work",0.472
+665,15.0,0.107,FOX,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.48
+666,14.0,0.031,FOX,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.393
+667,5.0,0.114,FOX,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.456
+668,12.0,0.288,FOX,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.557
+669,4.0,0.159,FOX,"said, time, say, new, peopl, n’t, like, one, year, take",0.294
+670,2.0,0.276,FOX,"say, said, time, year, peopl, vaccin, first, like, also, work",0.449
+671,7.0,0.177,FOX,"said, say, peopl, year, also, get, work, one, school, two",0.545
+672,0.0,0.145,FOX,"said, peopl, say, vaccin, one, like, time, get, day, new",0.42
+673,11.0,0.017,FOX,"said, one, time, like, day, say, peopl, work, also, year",0.401
+674,7.0,0.124,FOX,"said, say, peopl, year, also, get, work, one, school, two",0.314
+675,6.0,-0.034,FOX,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.413
+676,15.0,0.195,FOX,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.457
+677,6.0,0.051,FOX,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.426
+678,1.0,0.148,FOX,"said, say, peopl, year, one, time, day, first, like, get",0.38
+679,18.0,0.195,FOX,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.736
+680,10.0,0.076,FOX,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.402
+681,10.0,0.098,FOX,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.496
+682,15.0,0.168,FOX,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.417
+683,18.0,0.078,FOX,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.476
+684,5.0,0.154,FOX,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.508
+685,2.0,0.054,FOX,"say, said, time, year, peopl, vaccin, first, like, also, work",0.319
+686,8.0,0.029,FOX,"said, say, one, case, also, n’t, day, new, time, get",0.316
+687,2.0,-0.018,FOX,"say, said, time, year, peopl, vaccin, first, like, also, work",0.365
+688,10.0,0.114,FOX,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.384
+689,12.0,0.244,FOX,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.53
+690,14.0,0.05,FOX,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.404
+691,3.0,-0.017,FOX,"said, vaccin, say, peopl, new, report, time, one, also, year",0.41
+692,2.0,0.002,FOX,"say, said, time, year, peopl, vaccin, first, like, also, work",0.518
+693,17.0,-0.033,FOX,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.2
+694,6.0,0.064,FOX,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.421
+695,9.0,0.034,FOX,"said, peopl, year, vaccin, like, first, also, time, back, one",0.42
+696,7.0,0.035,FOX,"said, say, peopl, year, also, get, work, one, school, two",0.436
+697,10.0,0.025,FOX,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.358
+698,15.0,-0.045,FOX,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.449
+699,8.0,0.087,FOX,"said, say, one, case, also, n’t, day, new, time, get",0.466
+700,1.0,-0.061,FOX,"said, say, peopl, year, one, time, day, first, like, get",0.324
+701,3.0,0.102,FOX,"said, vaccin, say, peopl, new, report, time, one, also, year",0.316
+702,10.0,0.03,FOX,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.286
+703,9.0,0.043,FOX,"said, peopl, year, vaccin, like, first, also, time, back, one",0.197
+704,5.0,0.173,FOX,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.394
+705,0.0,0.136,FOX,"said, peopl, say, vaccin, one, like, time, get, day, new",0.385
+706,1.0,0.217,FOX,"said, say, peopl, year, one, time, day, first, like, get",0.504
+707,1.0,0.141,FOX,"said, say, peopl, year, one, time, day, first, like, get",0.493
+708,4.0,0.214,FOX,"said, time, say, new, peopl, n’t, like, one, year, take",0.46
+709,1.0,0.173,FOX,"said, say, peopl, year, one, time, day, first, like, get",0.382
+710,8.0,0.172,FOX,"said, say, one, case, also, n’t, day, new, time, get",0.342
+711,6.0,0.257,FOX,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.467
+712,5.0,0.296,FOX,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.4
+713,11.0,0.257,FOX,"said, one, time, like, day, say, peopl, work, also, year",0.533
+714,17.0,0.174,FOX,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.437
+715,4.0,0.112,FOX,"said, time, say, new, peopl, n’t, like, one, year, take",0.346
+716,5.0,0.196,FOX,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.394
+717,2.0,0.079,FOX,"say, said, time, year, peopl, vaccin, first, like, also, work",0.42
+718,6.0,0.085,FOX,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.421
+719,12.0,0.149,FOX,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.385
+720,1.0,0.132,FOX,"said, say, peopl, year, one, time, day, first, like, get",0.41
+721,7.0,0.111,FOX,"said, say, peopl, year, also, get, work, one, school, two",0.561
+722,15.0,0.157,FOX,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.454
+723,10.0,0.165,FOX,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.463
+724,3.0,0.186,FOX,"said, vaccin, say, peopl, new, report, time, one, also, year",0.389
+725,8.0,0.133,FOX,"said, say, one, case, also, n’t, day, new, time, get",0.393
+726,8.0,0.165,FOX,"said, say, one, case, also, n’t, day, new, time, get",0.458
+727,10.0,-0.092,FOX,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.507
+728,7.0,-0.008,FOX,"said, say, peopl, year, also, get, work, one, school, two",0.308
+729,16.0,0.094,FOX,"said, vaccin, one, peopl, say, get, new, day, time, case",0.394
+730,0.0,0.079,FOX,"said, peopl, say, vaccin, one, like, time, get, day, new",0.4
+731,13.0,0.09,FOX,"said, vaccin, say, one, like, also, week, peopl, use, year",0.482
+732,5.0,0.149,FOX,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.362
+733,12.0,0.199,FOX,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.564
+734,11.0,0.132,FOX,"said, one, time, like, day, say, peopl, work, also, year",0.45
+735,16.0,0.124,FOX,"said, vaccin, one, peopl, say, get, new, day, time, case",0.502
+736,7.0,0.166,FOX,"said, say, peopl, year, also, get, work, one, school, two",0.441
+737,12.0,-0.03,FOX,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.653
+738,11.0,0.158,FOX,"said, one, time, like, day, say, peopl, work, also, year",0.841
+739,17.0,0.12,FOX,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.346
+740,17.0,0.125,FOX,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.353
+741,15.0,0.079,FOX,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.379
+742,6.0,0.062,FOX,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.541
+743,15.0,0.108,FOX,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.494
+744,5.0,0.077,FOX,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.369
+745,15.0,0.092,FOX,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.379
+746,14.0,0.076,FOX,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.568
+747,14.0,0.084,FOX,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.35
+748,0.0,0.159,FOX,"said, peopl, say, vaccin, one, like, time, get, day, new",0.384
+749,8.0,0.125,FOX,"said, say, one, case, also, n’t, day, new, time, get",0.36
+750,10.0,0.176,FOX,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.536
+751,14.0,0.0,FOX,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.2
+752,9.0,0.286,FOX,"said, peopl, year, vaccin, like, first, also, time, back, one",0.536
+753,6.0,0.117,FOX,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.35
+754,15.0,0.321,FOX,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.292
+755,3.0,0.036,FOX,"said, vaccin, say, peopl, new, report, time, one, also, year",0.277
+756,8.0,0.068,FOX,"said, say, one, case, also, n’t, day, new, time, get",0.227
+757,0.0,0.094,FOX,"said, peopl, say, vaccin, one, like, time, get, day, new",0.304
+758,11.0,0.4,FOX,"said, one, time, like, day, say, peopl, work, also, year",0.5
+759,1.0,0.077,FOX,"said, say, peopl, year, one, time, day, first, like, get",0.438
+760,4.0,0.136,FOX,"said, time, say, new, peopl, n’t, like, one, year, take",0.455
+761,1.0,-0.05,FOX,"said, say, peopl, year, one, time, day, first, like, get",0.292
+762,16.0,0.075,FOX,"said, vaccin, one, peopl, say, get, new, day, time, case",0.275
+763,1.0,-0.076,FOX,"said, say, peopl, year, one, time, day, first, like, get",0.261
+764,15.0,0.0,FOX,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",1.0
+765,4.0,0.144,FOX,"said, time, say, new, peopl, n’t, like, one, year, take",0.336
+766,5.0,-0.098,FOX,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.396
+767,9.0,0.243,FOX,"said, peopl, year, vaccin, like, first, also, time, back, one",0.502
+768,11.0,0.122,FOX,"said, one, time, like, day, say, peopl, work, also, year",0.251
+769,0.0,0.208,FOX,"said, peopl, say, vaccin, one, like, time, get, day, new",0.486
+770,8.0,0.068,FOX,"said, say, one, case, also, n’t, day, new, time, get",0.3
+771,13.0,0.35,FOX,"said, vaccin, say, one, like, also, week, peopl, use, year",0.55
+772,8.0,0.079,FOX,"said, say, one, case, also, n’t, day, new, time, get",0.405
+773,17.0,0.013,FOX,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.488
+774,9.0,0.044,FOX,"said, peopl, year, vaccin, like, first, also, time, back, one",0.352
+775,10.0,0.25,FOX,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.383
+776,1.0,-0.135,FOX,"said, say, peopl, year, one, time, day, first, like, get",0.468
+777,9.0,-0.212,FOX,"said, peopl, year, vaccin, like, first, also, time, back, one",0.45
+778,1.0,-0.149,FOX,"said, say, peopl, year, one, time, day, first, like, get",0.524
+779,9.0,0.006,FOX,"said, peopl, year, vaccin, like, first, also, time, back, one",0.291
+780,14.0,0.005,FOX,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.27
+781,9.0,0.237,FOX,"said, peopl, year, vaccin, like, first, also, time, back, one",0.437
+782,16.0,0.045,FOX,"said, vaccin, one, peopl, say, get, new, day, time, case",0.236
+783,9.0,0.444,FOX,"said, peopl, year, vaccin, like, first, also, time, back, one",0.667
+784,14.0,0.025,FOX,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.25
+785,2.0,-0.007,FOX,"say, said, time, year, peopl, vaccin, first, like, also, work",0.73
+786,15.0,0.048,FOX,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.11
+787,9.0,0.35,FOX,"said, peopl, year, vaccin, like, first, also, time, back, one",0.5
+788,15.0,-0.084,FOX,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.402
+789,7.0,0.087,FOX,"said, say, peopl, year, also, get, work, one, school, two",0.667
+790,15.0,0.512,FOX,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.793
+791,17.0,-0.034,FOX,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.181
+792,14.0,0.063,CBC,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.488
+793,6.0,0.0,CBC,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.0
+794,15.0,-0.255,CBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.433
+795,5.0,0.35,CBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.487
+796,2.0,0.167,CBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.256
+797,2.0,0.092,CBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.639
+798,14.0,0.05,CBC,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.6
+799,12.0,0.02,CBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.287
+800,5.0,-0.386,CBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.57
+801,4.0,-0.007,CBC,"said, time, say, new, peopl, n’t, like, one, year, take",0.404
+802,1.0,0.196,CBC,"said, say, peopl, year, one, time, day, first, like, get",0.489
+803,15.0,0.198,CBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.515
+804,6.0,-0.014,CBC,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.407
+805,2.0,0.086,CBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.445
+806,10.0,-0.007,CBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.447
+807,6.0,0.053,CBC,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.352
+808,15.0,0.073,CBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.376
+809,8.0,-0.048,CBC,"said, say, one, case, also, n’t, day, new, time, get",0.349
+810,6.0,-0.03,CBC,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.328
+811,9.0,0.044,CBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.388
+812,6.0,0.069,CBC,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.356
+813,15.0,0.156,CBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.44
+814,15.0,0.103,CBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.466
+815,2.0,0.121,CBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.484
+816,12.0,0.109,CBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.499
+817,7.0,-0.085,CBC,"said, say, peopl, year, also, get, work, one, school, two",0.366
+818,6.0,0.044,CBC,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.317
+819,1.0,0.049,CBC,"said, say, peopl, year, one, time, day, first, like, get",0.481
+820,7.0,0.07,CBC,"said, say, peopl, year, also, get, work, one, school, two",0.286
+821,2.0,0.057,CBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.452
+822,3.0,0.012,CBC,"said, vaccin, say, peopl, new, report, time, one, also, year",0.378
+823,15.0,0.032,CBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.46
+824,15.0,0.03,CBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.324
+825,10.0,0.219,CBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.483
+826,9.0,0.098,CBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.303
+827,17.0,0.054,CBC,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.478
+828,15.0,0.159,CBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.396
+829,8.0,-0.012,CBC,"said, say, one, case, also, n’t, day, new, time, get",0.418
+830,1.0,0.169,CBC,"said, say, peopl, year, one, time, day, first, like, get",0.412
+831,15.0,-0.128,CBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.211
+832,14.0,0.048,CBC,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.32
+833,14.0,0.167,CBC,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.189
+834,2.0,0.14,CBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.378
+835,2.0,0.128,CBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.418
+836,9.0,0.082,CBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.394
+837,2.0,0.142,CBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.484
+838,5.0,0.214,CBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.433
+839,16.0,0.127,CBC,"said, vaccin, one, peopl, say, get, new, day, time, case",0.484
+840,9.0,0.229,CBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.415
+841,1.0,0.025,CBC,"said, say, peopl, year, one, time, day, first, like, get",0.447
+842,9.0,0.07,CBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.339
+843,18.0,0.236,CBC,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.491
+844,5.0,0.212,CBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.596
+845,2.0,0.0,CBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.033
+846,2.0,0.5,CBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.473
+847,5.0,0.127,CBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.454
+848,2.0,0.29,CBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.574
+849,1.0,0.109,CBC,"said, say, peopl, year, one, time, day, first, like, get",0.416
+850,11.0,0.156,CBC,"said, one, time, like, day, say, peopl, work, also, year",0.462
+851,15.0,0.131,CBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.427
+852,3.0,0.257,CBC,"said, vaccin, say, peopl, new, report, time, one, also, year",0.534
+853,9.0,0.117,CBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.317
+854,10.0,0.177,CBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.517
+855,7.0,0.196,CBC,"said, say, peopl, year, also, get, work, one, school, two",0.506
+856,5.0,0.189,CBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.516
+857,5.0,0.0,CBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.0
+858,5.0,0.193,CBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.566
+859,12.0,0.113,CBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.412
+860,4.0,0.143,CBC,"said, time, say, new, peopl, n’t, like, one, year, take",0.486
+861,1.0,0.067,CBC,"said, say, peopl, year, one, time, day, first, like, get",0.357
+862,13.0,0.116,CBC,"said, vaccin, say, one, like, also, week, peopl, use, year",0.548
+863,5.0,0.034,CBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.427
+864,1.0,0.083,CBC,"said, say, peopl, year, one, time, day, first, like, get",0.411
+865,6.0,0.103,CBC,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.472
+866,5.0,0.199,CBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.538
+867,17.0,0.02,CBC,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.72
+868,10.0,0.045,CBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.388
+869,2.0,0.144,CBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.282
+870,5.0,0.171,CBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.481
+871,0.0,0.152,CBC,"said, peopl, say, vaccin, one, like, time, get, day, new",0.485
+872,5.0,0.062,CBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.329
+873,5.0,0.09,CBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.397
+874,10.0,0.107,CBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.452
+875,17.0,0.205,CBC,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.513
+876,9.0,0.182,CBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.426
+877,14.0,0.033,CBC,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.556
+878,1.0,0.14,CBC,"said, say, peopl, year, one, time, day, first, like, get",0.542
+879,10.0,0.126,CBC,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.336
+880,5.0,0.083,CBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.6
+881,14.0,0.132,CBC,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.356
+882,15.0,0.107,CBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.539
+883,3.0,0.079,CBC,"said, vaccin, say, peopl, new, report, time, one, also, year",0.398
+884,16.0,0.172,CBC,"said, vaccin, one, peopl, say, get, new, day, time, case",0.466
+885,18.0,0.157,CBC,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.329
+886,2.0,0.057,CBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.379
+887,18.0,0.078,CBC,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.432
+888,2.0,0.254,CBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.425
+889,12.0,0.12,CBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.415
+890,16.0,0.079,CBC,"said, vaccin, one, peopl, say, get, new, day, time, case",0.386
+891,9.0,0.146,CBC,"said, peopl, year, vaccin, like, first, also, time, back, one",0.46
+892,14.0,0.146,CBC,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.341
+893,12.0,0.202,CBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.539
+894,1.0,-0.047,CBC,"said, say, peopl, year, one, time, day, first, like, get",0.47
+895,6.0,0.136,CBC,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.455
+896,14.0,0.038,CBC,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.299
+897,16.0,0.255,CBC,"said, vaccin, one, peopl, say, get, new, day, time, case",0.431
+898,13.0,0.105,CBC,"said, vaccin, say, one, like, also, week, peopl, use, year",0.43
+899,11.0,0.125,CBC,"said, one, time, like, day, say, peopl, work, also, year",0.494
+900,2.0,0.209,CBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.422
+901,7.0,0.089,CBC,"said, say, peopl, year, also, get, work, one, school, two",0.414
+902,2.0,0.151,CBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.416
+903,16.0,0.019,CBC,"said, vaccin, one, peopl, say, get, new, day, time, case",0.341
+904,5.0,0.2,CBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.451
+905,5.0,0.154,CBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.36
+906,5.0,0.218,CBC,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.415
+907,18.0,-0.027,CBC,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.393
+908,12.0,0.212,CBC,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.667
+909,15.0,0.078,CBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.417
+910,14.0,0.106,CBC,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.423
+911,15.0,0.087,CBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.42
+912,6.0,0.144,CBC,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.394
+913,2.0,0.098,CBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.445
+914,2.0,0.099,CBC,"say, said, time, year, peopl, vaccin, first, like, also, work",0.484
+915,7.0,0.056,CBC,"said, say, peopl, year, also, get, work, one, school, two",0.338
+916,1.0,0.118,CBC,"said, say, peopl, year, one, time, day, first, like, get",0.469
+917,15.0,0.145,CBC,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.412
+918,17.0,-0.081,Washington Post,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.365
+919,17.0,0.082,Washington Post,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.324
+920,14.0,0.163,Washington Post,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.363
+921,5.0,0.175,Washington Post,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.3
+922,2.0,0.048,Washington Post,"say, said, time, year, peopl, vaccin, first, like, also, work",0.361
+923,16.0,0.196,Washington Post,"said, vaccin, one, peopl, say, get, new, day, time, case",0.351
+924,8.0,-0.3,Washington Post,"said, say, one, case, also, n’t, day, new, time, get",0.56
+925,14.0,-0.175,Washington Post,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.396
+926,10.0,0.45,Washington Post,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.75
+927,5.0,0.091,Washington Post,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.46
+928,10.0,0.074,Washington Post,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.319
+929,0.0,0.011,Washington Post,"said, peopl, say, vaccin, one, like, time, get, day, new",0.41
+930,6.0,-0.004,Washington Post,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.425
+931,6.0,0.139,Washington Post,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.496
+932,5.0,-0.064,Washington Post,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.288
+933,1.0,0.059,Washington Post,"said, say, peopl, year, one, time, day, first, like, get",0.348
+934,16.0,0.125,Washington Post,"said, vaccin, one, peopl, say, get, new, day, time, case",0.409
+935,10.0,0.062,Washington Post,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.449
+936,3.0,0.156,Washington Post,"said, vaccin, say, peopl, new, report, time, one, also, year",0.444
+937,10.0,0.208,Washington Post,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.497
+938,2.0,0.208,Washington Post,"say, said, time, year, peopl, vaccin, first, like, also, work",0.468
+939,5.0,0.031,Washington Post,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.228
+940,0.0,0.078,Washington Post,"said, peopl, say, vaccin, one, like, time, get, day, new",0.625
+941,5.0,0.085,Washington Post,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.525
+942,5.0,0.024,Washington Post,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.337
+943,15.0,0.054,Washington Post,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.421
+944,6.0,0.102,Washington Post,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.348
+945,10.0,0.1,Washington Post,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.708
+946,9.0,0.132,Washington Post,"said, peopl, year, vaccin, like, first, also, time, back, one",0.251
+947,12.0,0.0,Washington Post,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.067
+948,15.0,0.353,Washington Post,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.565
+949,11.0,0.32,Washington Post,"said, one, time, like, day, say, peopl, work, also, year",0.547
+950,0.0,-0.009,Washington Post,"said, peopl, say, vaccin, one, like, time, get, day, new",0.315
+951,17.0,0.136,Washington Post,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.442
+952,7.0,0.057,Washington Post,"said, say, peopl, year, also, get, work, one, school, two",0.363
+953,10.0,0.126,Washington Post,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.652
+954,5.0,0.062,Washington Post,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.515
+955,9.0,0.112,Washington Post,"said, peopl, year, vaccin, like, first, also, time, back, one",0.422
+956,13.0,0.202,Washington Post,"said, vaccin, say, one, like, also, week, peopl, use, year",0.5
+957,10.0,0.455,Washington Post,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.89
+958,14.0,0.133,Washington Post,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.49
+959,14.0,0.12,Washington Post,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.442
+960,12.0,0.319,Washington Post,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.55
+961,4.0,0.241,Washington Post,"said, time, say, new, peopl, n’t, like, one, year, take",0.433
+962,16.0,0.189,Washington Post,"said, vaccin, one, peopl, say, get, new, day, time, case",0.4
+963,10.0,0.3,Washington Post,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.456
+964,13.0,0.0,Washington Post,"said, vaccin, say, one, like, also, week, peopl, use, year",0.0
+965,9.0,-0.014,Washington Post,"said, peopl, year, vaccin, like, first, also, time, back, one",0.552
+966,13.0,0.074,Washington Post,"said, vaccin, say, one, like, also, week, peopl, use, year",0.578
+967,6.0,0.13,Washington Post,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.72
+968,13.0,0.225,Washington Post,"said, vaccin, say, one, like, also, week, peopl, use, year",0.496
+969,4.0,-0.084,Washington Post,"said, time, say, new, peopl, n’t, like, one, year, take",0.301
+970,14.0,0.238,Washington Post,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.369
+971,2.0,0.188,Washington Post,"say, said, time, year, peopl, vaccin, first, like, also, work",0.219
+972,2.0,-0.0,Washington Post,"say, said, time, year, peopl, vaccin, first, like, also, work",0.394
+973,13.0,-0.3,Washington Post,"said, vaccin, say, one, like, also, week, peopl, use, year",0.4
+974,2.0,0.0,Washington Post,"say, said, time, year, peopl, vaccin, first, like, also, work",0.258
+975,10.0,0.157,Washington Post,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.335
+976,13.0,-0.026,Washington Post,"said, vaccin, say, one, like, also, week, peopl, use, year",0.375
+977,3.0,-0.019,Washington Post,"said, vaccin, say, peopl, new, report, time, one, also, year",0.365
+978,11.0,0.041,Washington Post,"said, one, time, like, day, say, peopl, work, also, year",0.505
+979,11.0,0.32,Washington Post,"said, one, time, like, day, say, peopl, work, also, year",0.78
+980,2.0,-0.2,Washington Post,"say, said, time, year, peopl, vaccin, first, like, also, work",0.65
+981,9.0,0.21,Washington Post,"said, peopl, year, vaccin, like, first, also, time, back, one",0.271
+982,13.0,-0.076,Washington Post,"said, vaccin, say, one, like, also, week, peopl, use, year",0.541
+983,8.0,0.033,Washington Post,"said, say, one, case, also, n’t, day, new, time, get",0.433
+984,11.0,0.167,Washington Post,"said, one, time, like, day, say, peopl, work, also, year",0.244
+985,7.0,0.067,Washington Post,"said, say, peopl, year, also, get, work, one, school, two",0.433
+986,0.0,0.306,Washington Post,"said, peopl, say, vaccin, one, like, time, get, day, new",0.376
+987,5.0,0.08,Washington Post,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.303
+988,0.0,-0.1,Washington Post,"said, peopl, say, vaccin, one, like, time, get, day, new",0.2
+989,5.0,0.0,Washington Post,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.189
+990,16.0,-0.01,Washington Post,"said, vaccin, one, peopl, say, get, new, day, time, case",0.394
+991,11.0,0.0,Washington Post,"said, one, time, like, day, say, peopl, work, also, year",1.0
+992,15.0,0.2,Washington Post,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.442
+993,15.0,0.13,Washington Post,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.491
+994,10.0,0.107,Washington Post,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.42
+995,5.0,0.35,Washington Post,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.388
+996,5.0,0.2,Washington Post,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.425
+997,6.0,0.049,Washington Post,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.459
+998,9.0,0.162,Washington Post,"said, peopl, year, vaccin, like, first, also, time, back, one",0.656
+999,2.0,-0.094,Washington Post,"say, said, time, year, peopl, vaccin, first, like, also, work",0.435
+1000,5.0,0.322,Washington Post,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.56
+1001,3.0,0.117,Washington Post,"said, vaccin, say, peopl, new, report, time, one, also, year",0.609
+1002,9.0,0.329,Washington Post,"said, peopl, year, vaccin, like, first, also, time, back, one",0.496
+1003,14.0,0.045,Washington Post,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.286
+1004,7.0,0.115,Washington Post,"said, say, peopl, year, also, get, work, one, school, two",0.46
+1005,13.0,0.246,Washington Post,"said, vaccin, say, one, like, also, week, peopl, use, year",0.605
+1006,16.0,0.125,Washington Post,"said, vaccin, one, peopl, say, get, new, day, time, case",0.306
+1007,7.0,0.063,Washington Post,"said, say, peopl, year, also, get, work, one, school, two",0.402
+1008,14.0,0.089,Washington Post,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.371
+1009,10.0,0.0,Washington Post,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.4
+1010,7.0,0.172,Washington Post,"said, say, peopl, year, also, get, work, one, school, two",0.583
+1011,6.0,0.116,Washington Post,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.397
+1012,12.0,-0.375,Washington Post,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.408
+1013,2.0,0.114,Washington Post,"say, said, time, year, peopl, vaccin, first, like, also, work",0.305
+1014,6.0,0.223,Washington Post,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.358
+1015,9.0,0.0,Washington Post,"said, peopl, year, vaccin, like, first, also, time, back, one",0.6
+1016,5.0,-0.08,Washington Post,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.193
+1017,6.0,0.049,Washington Post,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.471
+1018,15.0,0.4,Washington Post,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.456
+1019,2.0,0.1,Washington Post,"say, said, time, year, peopl, vaccin, first, like, also, work",0.636
+1020,11.0,0.265,Washington Post,"said, one, time, like, day, say, peopl, work, also, year",0.445
+1021,6.0,0.322,Washington Post,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.481
+1022,14.0,0.134,Washington Post,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.58
+1023,10.0,-0.096,Washington Post,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.281
+1024,12.0,0.129,Washington Post,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.452
+1025,14.0,0.213,Washington Post,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.307
+1026,10.0,0.122,Washington Post,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.404
+1027,10.0,0.016,Washington Post,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.259
+1028,15.0,0.083,Washington Post,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.35
+1029,12.0,-0.015,Washington Post,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.197
+1030,4.0,0.065,Washington Post,"said, time, say, new, peopl, n’t, like, one, year, take",0.32
+1031,4.0,0.076,Washington Post,"said, time, say, new, peopl, n’t, like, one, year, take",0.371
+1032,10.0,0.085,Washington Post,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.419
+1033,10.0,0.049,Washington Post,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.297
+1034,10.0,0.075,Washington Post,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.461
+1035,5.0,0.308,Washington Post,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.583
+1036,13.0,0.145,Washington Post,"said, vaccin, say, one, like, also, week, peopl, use, year",0.386
+1037,18.0,0.5,Globe and mail,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.5
+1038,10.0,0.25,Globe and mail,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.3
+1039,8.0,0.11,Globe and mail,"said, say, one, case, also, n’t, day, new, time, get",0.418
+1040,17.0,0.08,Globe and mail,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.488
+1041,16.0,0.183,Globe and mail,"said, vaccin, one, peopl, say, get, new, day, time, case",0.429
+1042,10.0,0.117,Globe and mail,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.383
+1043,10.0,0.159,Globe and mail,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.472
+1044,7.0,0.049,Globe and mail,"said, say, peopl, year, also, get, work, one, school, two",0.441
+1045,6.0,0.0,Globe and mail,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.0
+1046,15.0,0.0,Globe and mail,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.0
+1047,6.0,0.108,Globe and mail,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.37
+1048,3.0,0.0,Globe and mail,"said, vaccin, say, peopl, new, report, time, one, also, year",0.0
+1049,8.0,0.0,Globe and mail,"said, say, one, case, also, n’t, day, new, time, get",1.0
+1050,9.0,0.163,Globe and mail,"said, peopl, year, vaccin, like, first, also, time, back, one",0.512
+1051,11.0,0.0,Globe and mail,"said, one, time, like, day, say, peopl, work, also, year",0.0
+1052,17.0,-0.15,Globe and mail,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.576
+1053,7.0,0.1,Globe and mail,"said, say, peopl, year, also, get, work, one, school, two",0.475
+1054,17.0,0.332,Globe and mail,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.59
+1055,12.0,0.326,Globe and mail,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.385
+1056,15.0,0.163,Tech Crunch,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.439
+1057,13.0,0.134,Tech Crunch,"said, vaccin, say, one, like, also, week, peopl, use, year",0.438
+1058,12.0,0.221,Tech Crunch,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.459
+1059,18.0,0.096,Tech Crunch,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.413
+1060,1.0,0.14,Tech Crunch,"said, say, peopl, year, one, time, day, first, like, get",0.457
+1061,12.0,0.062,Tech Crunch,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.44
+1062,8.0,0.059,Tech Crunch,"said, say, one, case, also, n’t, day, new, time, get",0.439
+1063,12.0,0.224,Tech Crunch,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.467
+1064,0.0,0.183,Tech Crunch,"said, peopl, say, vaccin, one, like, time, get, day, new",0.382
+1065,10.0,0.064,Tech Crunch,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.427
+1066,10.0,0.111,Tech Crunch,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.405
+1067,3.0,0.131,Tech Crunch,"said, vaccin, say, peopl, new, report, time, one, also, year",0.455
+1068,10.0,0.119,Tech Crunch,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.289
+1069,12.0,0.115,Tech Crunch,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.463
+1070,15.0,0.108,Tech Crunch,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.4
+1071,10.0,0.16,Tech Crunch,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.436
+1072,5.0,0.051,Tech Crunch,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.404
+1073,15.0,0.12,Tech Crunch,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.52
+1074,13.0,0.037,Tech Crunch,"said, vaccin, say, one, like, also, week, peopl, use, year",0.494
+1075,16.0,0.148,Tech Crunch,"said, vaccin, one, peopl, say, get, new, day, time, case",0.422
+1076,10.0,0.124,Global News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.408
+1077,16.0,0.091,Global News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.436
+1078,4.0,0.055,Global News,"said, time, say, new, peopl, n’t, like, one, year, take",0.419
+1079,15.0,0.133,Global News,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.395
+1080,13.0,0.141,Global News,"said, vaccin, say, one, like, also, week, peopl, use, year",0.398
+1081,16.0,0.098,Global News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.407
+1082,0.0,0.088,Global News,"said, peopl, say, vaccin, one, like, time, get, day, new",0.403
+1083,1.0,0.125,Global News,"said, say, peopl, year, one, time, day, first, like, get",0.374
+1084,6.0,0.047,Global News,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.395
+1085,15.0,0.126,Global News,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.394
+1086,8.0,0.066,Global News,"said, say, one, case, also, n’t, day, new, time, get",0.352
+1087,0.0,0.014,Global News,"said, peopl, say, vaccin, one, like, time, get, day, new",0.435
+1088,14.0,0.015,Global News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.361
+1089,6.0,0.075,Global News,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.423
+1090,14.0,0.034,Global News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.317
+1091,7.0,0.075,Global News,"said, say, peopl, year, also, get, work, one, school, two",0.407
+1092,8.0,0.089,Global News,"said, say, one, case, also, n’t, day, new, time, get",0.425
+1093,9.0,0.058,Global News,"said, peopl, year, vaccin, like, first, also, time, back, one",0.465
+1094,6.0,0.057,Global News,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.472
+1095,8.0,0.091,Global News,"said, say, one, case, also, n’t, day, new, time, get",0.349
+1096,12.0,0.078,Global News,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.399
+1097,14.0,0.022,Global News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.342
+1098,0.0,0.138,Global News,"said, peopl, say, vaccin, one, like, time, get, day, new",0.552
+1099,13.0,0.132,Global News,"said, vaccin, say, one, like, also, week, peopl, use, year",0.444
+1100,15.0,0.032,Global News,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.309
+1101,10.0,0.031,Global News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.485
+1102,2.0,0.152,Global News,"say, said, time, year, peopl, vaccin, first, like, also, work",0.423
+1103,16.0,0.068,Global News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.427
+1104,11.0,-0.042,Global News,"said, one, time, like, day, say, peopl, work, also, year",0.792
+1105,16.0,0.0,Global News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.0
+1106,18.0,-0.109,Global News,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.176
+1107,2.0,0.083,Global News,"say, said, time, year, peopl, vaccin, first, like, also, work",0.153
+1108,8.0,0.068,Global News,"said, say, one, case, also, n’t, day, new, time, get",0.227
+1109,16.0,-0.038,Global News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.575
+1110,0.0,0.038,Global News,"said, peopl, say, vaccin, one, like, time, get, day, new",0.05
+1111,13.0,0.0,Global News,"said, vaccin, say, one, like, also, week, peopl, use, year",0.067
+1112,1.0,0.0,Global News,"said, say, peopl, year, one, time, day, first, like, get",0.0
+1113,7.0,0.068,Global News,"said, say, peopl, year, also, get, work, one, school, two",0.277
+1114,0.0,0.151,Global News,"said, peopl, say, vaccin, one, like, time, get, day, new",0.481
+1115,6.0,0.212,Global News,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.263
+1116,14.0,0.292,Global News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.452
+1117,0.0,0.132,Global News,"said, peopl, say, vaccin, one, like, time, get, day, new",0.494
+1118,13.0,0.124,Global News,"said, vaccin, say, one, like, also, week, peopl, use, year",0.351
+1119,12.0,0.056,Global News,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.396
+1120,11.0,0.044,Global News,"said, one, time, like, day, say, peopl, work, also, year",0.361
+1121,6.0,0.102,Global News,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.32
+1122,8.0,0.051,Global News,"said, say, one, case, also, n’t, day, new, time, get",0.367
+1123,6.0,0.096,Global News,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.357
+1124,3.0,0.093,Global News,"said, vaccin, say, peopl, new, report, time, one, also, year",0.27
+1125,13.0,-0.133,Global News,"said, vaccin, say, one, like, also, week, peopl, use, year",0.482
+1126,2.0,0.136,Global News,"say, said, time, year, peopl, vaccin, first, like, also, work",0.822
+1127,9.0,0.078,Global News,"said, peopl, year, vaccin, like, first, also, time, back, one",0.32
+1128,0.0,0.255,Global News,"said, peopl, say, vaccin, one, like, time, get, day, new",0.51
+1129,9.0,0.021,Global News,"said, peopl, year, vaccin, like, first, also, time, back, one",0.277
+1130,2.0,0.01,Global News,"say, said, time, year, peopl, vaccin, first, like, also, work",0.15
+1131,5.0,0.102,Global News,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.312
+1132,0.0,0.122,Global News,"said, peopl, say, vaccin, one, like, time, get, day, new",0.37
+1133,4.0,0.216,Global News,"said, time, say, new, peopl, n’t, like, one, year, take",0.414
+1134,12.0,0.043,Global News,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.421
+1135,14.0,0.017,Global News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.377
+1136,10.0,0.134,Global News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.432
+1137,6.0,0.144,Global News,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.422
+1138,0.0,0.332,Global News,"said, peopl, say, vaccin, one, like, time, get, day, new",0.563
+1139,14.0,0.293,Global News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.654
+1140,9.0,0.245,Global News,"said, peopl, year, vaccin, like, first, also, time, back, one",0.45
+1141,12.0,0.082,Global News,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.31
+1142,9.0,0.089,Global News,"said, peopl, year, vaccin, like, first, also, time, back, one",0.354
+1143,3.0,0.4,Global News,"said, vaccin, say, peopl, new, report, time, one, also, year",0.633
+1144,17.0,0.246,Global News,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.427
+1145,5.0,0.21,Global News,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.513
+1146,1.0,0.062,Global News,"said, say, peopl, year, one, time, day, first, like, get",0.444
+1147,14.0,0.042,Global News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.31
+1148,6.0,0.091,Global News,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.369
+1149,4.0,0.179,Global News,"said, time, say, new, peopl, n’t, like, one, year, take",0.433
+1150,14.0,0.2,Global News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.3
+1151,14.0,0.277,Global News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.451
+1152,15.0,0.158,Global News,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.592
+1153,18.0,0.058,Global News,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.258
+1154,16.0,0.25,Global News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.75
+1155,2.0,-0.025,Global News,"say, said, time, year, peopl, vaccin, first, like, also, work",0.242
+1156,0.0,0.375,Global News,"said, peopl, say, vaccin, one, like, time, get, day, new",0.417
+1157,5.0,0.091,Global News,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.303
+1158,5.0,0.16,Global News,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.349
+1159,1.0,0.535,Global News,"said, say, peopl, year, one, time, day, first, like, get",0.583
+1160,4.0,-0.25,Global News,"said, time, say, new, peopl, n’t, like, one, year, take",0.45
+1161,3.0,0.039,Global News,"said, vaccin, say, peopl, new, report, time, one, also, year",0.301
+1162,13.0,-0.05,Global News,"said, vaccin, say, one, like, also, week, peopl, use, year",0.2
+1163,0.0,-0.013,Global News,"said, peopl, say, vaccin, one, like, time, get, day, new",0.163
+1164,5.0,0.02,Global News,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.06
+1165,15.0,0.136,Global News,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.455
+1166,10.0,0.0,Global News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.0
+1167,3.0,0.338,Global News,"said, vaccin, say, peopl, new, report, time, one, also, year",0.388
+1168,14.0,-0.156,Global News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.289
+1169,3.0,0.159,Global News,"said, vaccin, say, peopl, new, report, time, one, also, year",0.264
+1170,18.0,0.068,Global News,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.227
+1171,18.0,-0.094,Global News,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.275
+1172,1.0,0.25,Global News,"said, say, peopl, year, one, time, day, first, like, get",0.333
+1173,1.0,0.0,Global News,"said, say, peopl, year, one, time, day, first, like, get",0.0
+1174,10.0,-0.062,Global News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.208
+1175,10.0,0.042,The Star,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.382
+1176,0.0,0.034,The Star,"said, peopl, say, vaccin, one, like, time, get, day, new",0.43
+1177,12.0,0.106,The Star,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.491
+1178,14.0,0.057,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.506
+1179,7.0,0.147,The Star,"said, say, peopl, year, also, get, work, one, school, two",0.551
+1180,17.0,0.269,The Star,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.588
+1181,8.0,0.183,The Star,"said, say, one, case, also, n’t, day, new, time, get",0.504
+1182,12.0,0.146,The Star,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.464
+1183,16.0,0.109,The Star,"said, vaccin, one, peopl, say, get, new, day, time, case",0.481
+1184,5.0,0.169,The Star,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.474
+1185,2.0,0.149,The Star,"say, said, time, year, peopl, vaccin, first, like, also, work",0.429
+1186,15.0,0.168,The Star,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.371
+1187,5.0,0.109,The Star,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.445
+1188,12.0,0.159,The Star,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.5
+1189,12.0,0.104,The Star,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.381
+1190,0.0,0.078,The Star,"said, peopl, say, vaccin, one, like, time, get, day, new",0.458
+1191,10.0,0.241,The Star,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.466
+1192,12.0,0.134,The Star,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.484
+1193,7.0,0.132,The Star,"said, say, peopl, year, also, get, work, one, school, two",0.491
+1194,12.0,0.171,The Star,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.386
+1195,1.0,0.174,The Star,"said, say, peopl, year, one, time, day, first, like, get",0.549
+1196,11.0,0.164,The Star,"said, one, time, like, day, say, peopl, work, also, year",0.459
+1197,10.0,-0.049,The Star,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.385
+1198,10.0,0.082,The Star,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.537
+1199,10.0,0.18,The Star,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.445
+1200,0.0,0.204,The Star,"said, peopl, say, vaccin, one, like, time, get, day, new",0.544
+1201,12.0,0.188,The Star,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.441
+1202,12.0,0.226,The Star,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.5
+1203,17.0,0.226,The Star,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.426
+1204,16.0,0.23,The Star,"said, vaccin, one, peopl, say, get, new, day, time, case",0.542
+1205,5.0,0.078,The Star,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.594
+1206,16.0,0.116,The Star,"said, vaccin, one, peopl, say, get, new, day, time, case",0.465
+1207,5.0,0.124,The Star,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.524
+1208,9.0,0.104,The Star,"said, peopl, year, vaccin, like, first, also, time, back, one",0.53
+1209,2.0,0.262,The Star,"say, said, time, year, peopl, vaccin, first, like, also, work",0.485
+1210,1.0,0.123,The Star,"said, say, peopl, year, one, time, day, first, like, get",0.338
+1211,7.0,-0.003,The Star,"said, say, peopl, year, also, get, work, one, school, two",0.43
+1212,10.0,0.125,The Star,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.444
+1213,18.0,0.06,The Star,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.462
+1214,14.0,0.003,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.307
+1215,7.0,0.054,The Star,"said, say, peopl, year, also, get, work, one, school, two",0.4
+1216,15.0,-0.011,The Star,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.395
+1217,16.0,0.063,The Star,"said, vaccin, one, peopl, say, get, new, day, time, case",0.317
+1218,4.0,0.073,The Star,"said, time, say, new, peopl, n’t, like, one, year, take",0.547
+1219,5.0,0.129,The Star,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.523
+1220,15.0,0.0,The Star,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.65
+1221,5.0,-0.013,The Star,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.471
+1222,1.0,-0.018,The Star,"said, say, peopl, year, one, time, day, first, like, get",0.52
+1223,0.0,0.057,The Star,"said, peopl, say, vaccin, one, like, time, get, day, new",0.423
+1224,5.0,0.057,The Star,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.478
+1225,13.0,0.072,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.519
+1226,2.0,0.07,The Star,"say, said, time, year, peopl, vaccin, first, like, also, work",0.463
+1227,13.0,-0.005,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.457
+1228,16.0,0.109,The Star,"said, vaccin, one, peopl, say, get, new, day, time, case",0.448
+1229,17.0,0.0,The Star,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.333
+1230,16.0,0.008,The Star,"said, vaccin, one, peopl, say, get, new, day, time, case",0.368
+1231,1.0,0.132,The Star,"said, say, peopl, year, one, time, day, first, like, get",0.39
+1232,12.0,0.099,The Star,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.405
+1233,6.0,0.085,The Star,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.445
+1234,16.0,0.04,The Star,"said, vaccin, one, peopl, say, get, new, day, time, case",0.429
+1235,13.0,0.179,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.352
+1236,2.0,0.127,The Star,"say, said, time, year, peopl, vaccin, first, like, also, work",0.442
+1237,7.0,0.094,The Star,"said, say, peopl, year, also, get, work, one, school, two",0.457
+1238,12.0,0.111,The Star,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.419
+1239,10.0,0.038,The Star,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.405
+1240,12.0,0.077,The Star,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.441
+1241,16.0,0.097,The Star,"said, vaccin, one, peopl, say, get, new, day, time, case",0.412
+1242,1.0,0.171,The Star,"said, say, peopl, year, one, time, day, first, like, get",0.367
+1243,12.0,0.104,The Star,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.419
+1244,13.0,0.35,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.7
+1245,7.0,0.018,The Star,"said, say, peopl, year, also, get, work, one, school, two",0.495
+1246,4.0,0.115,The Star,"said, time, say, new, peopl, n’t, like, one, year, take",0.462
+1247,18.0,0.072,The Star,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.39
+1248,16.0,0.118,The Star,"said, vaccin, one, peopl, say, get, new, day, time, case",0.417
+1249,8.0,0.069,The Star,"said, say, one, case, also, n’t, day, new, time, get",0.377
+1250,3.0,0.071,The Star,"said, vaccin, say, peopl, new, report, time, one, also, year",0.457
+1251,13.0,0.036,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.335
+1252,14.0,0.322,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.461
+1253,14.0,0.203,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.477
+1254,13.0,0.098,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.442
+1255,0.0,0.117,The Star,"said, peopl, say, vaccin, one, like, time, get, day, new",0.516
+1256,14.0,0.118,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.357
+1257,7.0,0.186,The Star,"said, say, peopl, year, also, get, work, one, school, two",0.437
+1258,10.0,0.115,The Star,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.469
+1259,0.0,0.219,The Star,"said, peopl, say, vaccin, one, like, time, get, day, new",0.461
+1260,17.0,-0.078,The Star,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.178
+1261,2.0,0.05,The Star,"say, said, time, year, peopl, vaccin, first, like, also, work",0.267
+1262,10.0,0.071,The Star,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.588
+1263,2.0,0.008,The Star,"say, said, time, year, peopl, vaccin, first, like, also, work",0.385
+1264,2.0,-0.019,The Star,"say, said, time, year, peopl, vaccin, first, like, also, work",0.408
+1265,6.0,0.057,The Star,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.45
+1266,2.0,0.226,The Star,"say, said, time, year, peopl, vaccin, first, like, also, work",0.482
+1267,14.0,0.196,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.499
+1268,6.0,0.084,The Star,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.402
+1269,13.0,0.116,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.491
+1270,17.0,0.025,The Star,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.225
+1271,2.0,0.058,The Star,"say, said, time, year, peopl, vaccin, first, like, also, work",0.298
+1272,10.0,0.133,The Star,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.348
+1273,6.0,0.088,The Star,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.296
+1274,16.0,0.075,The Star,"said, vaccin, one, peopl, say, get, new, day, time, case",0.454
+1275,13.0,0.104,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.398
+1276,7.0,0.049,The Star,"said, say, peopl, year, also, get, work, one, school, two",0.476
+1277,4.0,0.074,The Star,"said, time, say, new, peopl, n’t, like, one, year, take",0.337
+1278,2.0,0.082,The Star,"say, said, time, year, peopl, vaccin, first, like, also, work",0.44
+1279,8.0,0.156,The Star,"said, say, one, case, also, n’t, day, new, time, get",0.355
+1280,2.0,0.094,The Star,"say, said, time, year, peopl, vaccin, first, like, also, work",0.381
+1281,2.0,-0.009,The Star,"say, said, time, year, peopl, vaccin, first, like, also, work",0.303
+1282,7.0,0.185,The Star,"said, say, peopl, year, also, get, work, one, school, two",0.483
+1283,11.0,0.166,The Star,"said, one, time, like, day, say, peopl, work, also, year",0.385
+1284,14.0,0.043,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.433
+1285,0.0,0.102,The Star,"said, peopl, say, vaccin, one, like, time, get, day, new",0.341
+1286,5.0,0.119,The Star,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.371
+1287,12.0,0.139,The Star,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.491
+1288,6.0,0.099,The Star,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.392
+1289,12.0,0.193,The Star,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.439
+1290,15.0,0.113,The Star,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.334
+1291,17.0,0.054,The Star,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.416
+1292,16.0,0.162,The Star,"said, vaccin, one, peopl, say, get, new, day, time, case",0.427
+1293,5.0,0.118,The Star,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.562
+1294,9.0,0.148,The Star,"said, peopl, year, vaccin, like, first, also, time, back, one",0.459
+1295,13.0,0.046,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.355
+1296,14.0,0.102,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.436
+1297,14.0,0.084,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.428
+1298,17.0,0.101,The Star,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.447
+1299,17.0,0.127,The Star,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.516
+1300,17.0,0.053,The Star,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.404
+1301,7.0,0.011,The Star,"said, say, peopl, year, also, get, work, one, school, two",0.302
+1302,16.0,0.055,The Star,"said, vaccin, one, peopl, say, get, new, day, time, case",0.351
+1303,17.0,0.065,The Star,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.424
+1304,16.0,0.055,The Star,"said, vaccin, one, peopl, say, get, new, day, time, case",0.42
+1305,17.0,0.036,The Star,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.414
+1306,15.0,0.093,The Star,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.427
+1307,9.0,0.379,The Star,"said, peopl, year, vaccin, like, first, also, time, back, one",0.661
+1308,6.0,0.015,The Star,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.4
+1309,14.0,0.064,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.38
+1310,2.0,0.075,The Star,"say, said, time, year, peopl, vaccin, first, like, also, work",0.403
+1311,15.0,0.052,The Star,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.42
+1312,15.0,0.044,The Star,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.399
+1313,5.0,0.111,The Star,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.329
+1314,17.0,0.242,The Star,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.321
+1315,3.0,0.171,The Star,"said, vaccin, say, peopl, new, report, time, one, also, year",0.459
+1316,6.0,0.015,The Star,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.328
+1317,6.0,0.103,The Star,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.452
+1318,18.0,0.092,The Star,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.381
+1319,0.0,0.166,The Star,"said, peopl, say, vaccin, one, like, time, get, day, new",0.544
+1320,0.0,0.085,The Star,"said, peopl, say, vaccin, one, like, time, get, day, new",0.464
+1321,11.0,0.058,The Star,"said, one, time, like, day, say, peopl, work, also, year",0.375
+1322,12.0,0.111,The Star,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.374
+1323,13.0,0.162,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.503
+1324,14.0,0.107,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.314
+1325,16.0,0.166,The Star,"said, vaccin, one, peopl, say, get, new, day, time, case",0.347
+1326,14.0,0.079,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.369
+1327,14.0,0.06,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.554
+1328,13.0,0.084,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.473
+1329,15.0,0.19,The Star,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.47
+1330,16.0,0.152,The Star,"said, vaccin, one, peopl, say, get, new, day, time, case",0.483
+1331,12.0,0.004,The Star,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.26
+1332,4.0,-0.057,The Star,"said, time, say, new, peopl, n’t, like, one, year, take",0.619
+1333,1.0,0.065,The Star,"said, say, peopl, year, one, time, day, first, like, get",0.468
+1334,8.0,0.066,The Star,"said, say, one, case, also, n’t, day, new, time, get",0.454
+1335,5.0,0.073,The Star,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.249
+1336,4.0,0.224,The Star,"said, time, say, new, peopl, n’t, like, one, year, take",0.428
+1337,14.0,0.012,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.174
+1338,3.0,0.14,The Star,"said, vaccin, say, peopl, new, report, time, one, also, year",0.384
+1339,17.0,0.086,The Star,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.226
+1340,14.0,0.122,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.37
+1341,13.0,0.031,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.354
+1342,10.0,0.143,The Star,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.494
+1343,6.0,0.125,The Star,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.433
+1344,14.0,0.081,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.377
+1345,12.0,0.049,The Star,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.438
+1346,2.0,0.058,The Star,"say, said, time, year, peopl, vaccin, first, like, also, work",0.543
+1347,17.0,0.273,The Star,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.559
+1348,6.0,0.054,The Star,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.416
+1349,10.0,0.067,The Star,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.408
+1350,16.0,0.075,The Star,"said, vaccin, one, peopl, say, get, new, day, time, case",0.263
+1351,9.0,0.012,The Star,"said, peopl, year, vaccin, like, first, also, time, back, one",0.409
+1352,12.0,0.098,The Star,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.546
+1353,13.0,0.088,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.508
+1354,15.0,0.039,The Star,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.439
+1355,2.0,0.068,The Star,"say, said, time, year, peopl, vaccin, first, like, also, work",0.44
+1356,0.0,0.118,The Star,"said, peopl, say, vaccin, one, like, time, get, day, new",0.458
+1357,13.0,0.046,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.389
+1358,17.0,-0.003,The Star,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.325
+1359,0.0,0.031,The Star,"said, peopl, say, vaccin, one, like, time, get, day, new",0.272
+1360,0.0,0.117,The Star,"said, peopl, say, vaccin, one, like, time, get, day, new",0.381
+1361,3.0,0.098,The Star,"said, vaccin, say, peopl, new, report, time, one, also, year",0.484
+1362,0.0,0.024,The Star,"said, peopl, say, vaccin, one, like, time, get, day, new",0.376
+1363,13.0,0.145,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.479
+1364,13.0,0.067,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.339
+1365,2.0,0.071,The Star,"say, said, time, year, peopl, vaccin, first, like, also, work",0.356
+1366,3.0,0.115,The Star,"said, vaccin, say, peopl, new, report, time, one, also, year",0.451
+1367,13.0,0.135,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.413
+1368,14.0,0.072,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.363
+1369,12.0,0.127,The Star,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.406
+1370,0.0,0.04,The Star,"said, peopl, say, vaccin, one, like, time, get, day, new",0.37
+1371,11.0,0.103,The Star,"said, one, time, like, day, say, peopl, work, also, year",0.407
+1372,13.0,0.045,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.385
+1373,0.0,0.076,The Star,"said, peopl, say, vaccin, one, like, time, get, day, new",0.49
+1374,15.0,0.072,The Star,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.357
+1375,16.0,0.104,The Star,"said, vaccin, one, peopl, say, get, new, day, time, case",0.501
+1376,13.0,0.105,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.428
+1377,14.0,0.118,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.379
+1378,14.0,0.081,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.368
+1379,0.0,0.059,The Star,"said, peopl, say, vaccin, one, like, time, get, day, new",0.353
+1380,18.0,0.068,The Star,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.412
+1381,16.0,0.154,The Star,"said, vaccin, one, peopl, say, get, new, day, time, case",0.419
+1382,13.0,0.131,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.481
+1383,6.0,0.097,The Star,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.393
+1384,13.0,0.131,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.422
+1385,16.0,0.1,The Star,"said, vaccin, one, peopl, say, get, new, day, time, case",0.347
+1386,14.0,0.04,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.368
+1387,15.0,0.134,The Star,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.35
+1388,10.0,0.05,The Star,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.349
+1389,7.0,0.014,The Star,"said, say, peopl, year, also, get, work, one, school, two",0.369
+1390,16.0,0.12,The Star,"said, vaccin, one, peopl, say, get, new, day, time, case",0.389
+1391,13.0,0.117,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.455
+1392,13.0,0.057,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.43
+1393,14.0,0.054,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.303
+1394,6.0,0.115,The Star,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.398
+1395,14.0,0.088,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.403
+1396,13.0,0.133,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.445
+1397,14.0,0.124,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.467
+1398,14.0,0.109,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.402
+1399,16.0,0.045,The Star,"said, vaccin, one, peopl, say, get, new, day, time, case",0.435
+1400,0.0,0.086,The Star,"said, peopl, say, vaccin, one, like, time, get, day, new",0.477
+1401,10.0,-0.001,The Star,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.43
+1402,2.0,0.153,The Star,"say, said, time, year, peopl, vaccin, first, like, also, work",0.399
+1403,5.0,0.122,The Star,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.468
+1404,17.0,0.086,The Star,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.449
+1405,13.0,0.083,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.43
+1406,0.0,0.072,The Star,"said, peopl, say, vaccin, one, like, time, get, day, new",0.324
+1407,13.0,0.031,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.382
+1408,11.0,0.081,The Star,"said, one, time, like, day, say, peopl, work, also, year",0.432
+1409,14.0,0.052,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.545
+1410,13.0,0.147,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.4
+1411,17.0,0.068,The Star,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.442
+1412,6.0,0.036,The Star,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.338
+1413,14.0,0.073,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.414
+1414,6.0,0.089,The Star,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.34
+1415,11.0,0.102,The Star,"said, one, time, like, day, say, peopl, work, also, year",0.393
+1416,15.0,0.074,The Star,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.397
+1417,13.0,0.154,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.479
+1418,13.0,0.125,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.444
+1419,17.0,0.075,The Star,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.446
+1420,14.0,0.062,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.391
+1421,4.0,0.1,The Star,"said, time, say, new, peopl, n’t, like, one, year, take",0.336
+1422,14.0,0.092,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.417
+1423,13.0,0.178,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.542
+1424,14.0,0.107,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.438
+1425,13.0,0.05,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.356
+1426,0.0,0.036,The Star,"said, peopl, say, vaccin, one, like, time, get, day, new",0.482
+1427,6.0,-0.008,The Star,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.406
+1428,5.0,0.112,The Star,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.411
+1429,3.0,0.078,The Star,"said, vaccin, say, peopl, new, report, time, one, also, year",0.334
+1430,9.0,0.006,The Star,"said, peopl, year, vaccin, like, first, also, time, back, one",0.396
+1431,14.0,0.043,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.361
+1432,14.0,0.058,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.478
+1433,17.0,0.068,The Star,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.43
+1434,13.0,0.091,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.533
+1435,9.0,0.111,The Star,"said, peopl, year, vaccin, like, first, also, time, back, one",0.385
+1436,14.0,0.072,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.413
+1437,2.0,0.075,The Star,"say, said, time, year, peopl, vaccin, first, like, also, work",0.444
+1438,15.0,0.095,The Star,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.427
+1439,10.0,0.147,The Star,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.462
+1440,5.0,0.172,The Star,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.45
+1441,16.0,0.079,The Star,"said, vaccin, one, peopl, say, get, new, day, time, case",0.325
+1442,5.0,0.13,The Star,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.354
+1443,12.0,0.135,The Star,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.499
+1444,13.0,0.121,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.466
+1445,3.0,0.074,The Star,"said, vaccin, say, peopl, new, report, time, one, also, year",0.304
+1446,16.0,0.038,The Star,"said, vaccin, one, peopl, say, get, new, day, time, case",0.315
+1447,7.0,0.137,The Star,"said, say, peopl, year, also, get, work, one, school, two",0.417
+1448,17.0,0.059,The Star,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.433
+1449,14.0,0.125,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.399
+1450,12.0,0.087,The Star,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.401
+1451,15.0,0.102,The Star,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.481
+1452,14.0,0.086,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.412
+1453,2.0,0.059,The Star,"say, said, time, year, peopl, vaccin, first, like, also, work",0.403
+1454,2.0,0.069,The Star,"say, said, time, year, peopl, vaccin, first, like, also, work",0.445
+1455,16.0,0.095,The Star,"said, vaccin, one, peopl, say, get, new, day, time, case",0.366
+1456,0.0,0.064,The Star,"said, peopl, say, vaccin, one, like, time, get, day, new",0.448
+1457,13.0,-0.03,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.547
+1458,13.0,0.028,The Star,"said, vaccin, say, one, like, also, week, peopl, use, year",0.347
+1459,4.0,0.113,The Star,"said, time, say, new, peopl, n’t, like, one, year, take",0.472
+1460,17.0,0.053,The Star,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.421
+1461,9.0,0.139,The Star,"said, peopl, year, vaccin, like, first, also, time, back, one",0.455
+1462,6.0,0.099,The Star,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.416
+1463,4.0,0.126,The Star,"said, time, say, new, peopl, n’t, like, one, year, take",0.367
+1464,14.0,0.104,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.282
+1465,12.0,0.044,The Star,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.462
+1466,14.0,0.083,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.355
+1467,6.0,0.038,The Star,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.465
+1468,14.0,0.123,The Star,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.411
+1469,17.0,0.038,The Star,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.397
+1470,14.0,-0.5,Channel News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.3
+1471,10.0,0.142,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.413
+1472,1.0,0.142,Channel News,"said, say, peopl, year, one, time, day, first, like, get",0.431
+1473,7.0,0.036,Channel News,"said, say, peopl, year, also, get, work, one, school, two",0.383
+1474,8.0,0.026,Channel News,"said, say, one, case, also, n’t, day, new, time, get",0.303
+1475,1.0,-0.011,Channel News,"said, say, peopl, year, one, time, day, first, like, get",0.369
+1476,1.0,0.199,Channel News,"said, say, peopl, year, one, time, day, first, like, get",0.413
+1477,7.0,-0.159,Channel News,"said, say, peopl, year, also, get, work, one, school, two",0.736
+1478,2.0,-0.052,Channel News,"say, said, time, year, peopl, vaccin, first, like, also, work",0.192
+1479,8.0,0.018,Channel News,"said, say, one, case, also, n’t, day, new, time, get",0.417
+1480,9.0,0.085,Channel News,"said, peopl, year, vaccin, like, first, also, time, back, one",0.27
+1481,11.0,0.039,Channel News,"said, one, time, like, day, say, peopl, work, also, year",0.379
+1482,2.0,0.058,Channel News,"say, said, time, year, peopl, vaccin, first, like, also, work",0.317
+1483,1.0,0.055,Channel News,"said, say, peopl, year, one, time, day, first, like, get",0.449
+1484,11.0,0.089,Channel News,"said, one, time, like, day, say, peopl, work, also, year",0.325
+1485,10.0,0.239,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.481
+1486,7.0,0.078,Channel News,"said, say, peopl, year, also, get, work, one, school, two",0.295
+1487,13.0,0.247,Channel News,"said, vaccin, say, one, like, also, week, peopl, use, year",0.493
+1488,14.0,0.146,Channel News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.503
+1489,15.0,0.05,Channel News,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.548
+1490,17.0,-0.087,Channel News,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.223
+1491,16.0,0.059,Channel News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.453
+1492,14.0,0.005,Channel News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.283
+1493,13.0,0.06,Channel News,"said, vaccin, say, one, like, also, week, peopl, use, year",0.433
+1494,13.0,0.114,Channel News,"said, vaccin, say, one, like, also, week, peopl, use, year",0.493
+1495,13.0,0.081,Channel News,"said, vaccin, say, one, like, also, week, peopl, use, year",0.32
+1496,15.0,0.03,Channel News,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.386
+1497,9.0,0.028,Channel News,"said, peopl, year, vaccin, like, first, also, time, back, one",0.322
+1498,9.0,0.127,Channel News,"said, peopl, year, vaccin, like, first, also, time, back, one",0.337
+1499,16.0,0.174,Channel News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.466
+1500,6.0,0.079,Channel News,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.382
+1501,11.0,0.117,Channel News,"said, one, time, like, day, say, peopl, work, also, year",0.363
+1502,17.0,0.098,Channel News,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.252
+1503,18.0,-0.128,Channel News,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.389
+1504,6.0,0.066,Channel News,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.492
+1505,18.0,0.005,Channel News,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.371
+1506,14.0,0.041,Channel News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.384
+1507,16.0,0.147,Channel News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.371
+1508,14.0,0.092,Channel News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.34
+1509,15.0,0.173,Channel News,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.41
+1510,10.0,-0.036,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.455
+1511,7.0,-0.004,Channel News,"said, say, peopl, year, also, get, work, one, school, two",0.346
+1512,8.0,-0.047,Channel News,"said, say, one, case, also, n’t, day, new, time, get",0.31
+1513,10.0,0.261,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.457
+1514,8.0,0.06,Channel News,"said, say, one, case, also, n’t, day, new, time, get",0.295
+1515,18.0,0.224,Channel News,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.573
+1516,2.0,0.05,Channel News,"say, said, time, year, peopl, vaccin, first, like, also, work",0.507
+1517,2.0,0.25,Channel News,"say, said, time, year, peopl, vaccin, first, like, also, work",0.3
+1518,5.0,0.175,Channel News,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.275
+1519,9.0,0.081,Channel News,"said, peopl, year, vaccin, like, first, also, time, back, one",0.452
+1520,10.0,0.106,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.196
+1521,10.0,0.043,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.386
+1522,6.0,0.046,Channel News,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.388
+1523,17.0,0.039,Channel News,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.283
+1524,8.0,0.029,Channel News,"said, say, one, case, also, n’t, day, new, time, get",0.386
+1525,10.0,0.059,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.353
+1526,0.0,0.091,Channel News,"said, peopl, say, vaccin, one, like, time, get, day, new",0.402
+1527,12.0,0.059,Channel News,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.202
+1528,18.0,0.124,Channel News,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.418
+1529,12.0,0.13,Channel News,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.325
+1530,14.0,0.02,Channel News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.334
+1531,13.0,-0.122,Channel News,"said, vaccin, say, one, like, also, week, peopl, use, year",0.584
+1532,10.0,-0.084,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.389
+1533,16.0,0.101,Channel News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.421
+1534,17.0,0.074,Channel News,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.321
+1535,13.0,0.098,Channel News,"said, vaccin, say, one, like, also, week, peopl, use, year",0.358
+1536,7.0,0.114,Channel News,"said, say, peopl, year, also, get, work, one, school, two",0.456
+1537,18.0,0.033,Channel News,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.345
+1538,2.0,0.111,Channel News,"say, said, time, year, peopl, vaccin, first, like, also, work",0.422
+1539,10.0,0.096,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.385
+1540,5.0,-0.021,Channel News,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.271
+1541,13.0,0.123,Channel News,"said, vaccin, say, one, like, also, week, peopl, use, year",0.285
+1542,7.0,0.088,Channel News,"said, say, peopl, year, also, get, work, one, school, two",0.224
+1543,10.0,0.052,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.322
+1544,3.0,0.015,Channel News,"said, vaccin, say, peopl, new, report, time, one, also, year",0.46
+1545,10.0,0.129,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.356
+1546,7.0,0.136,Channel News,"said, say, peopl, year, also, get, work, one, school, two",0.354
+1547,18.0,0.034,Channel News,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.34
+1548,0.0,0.103,Channel News,"said, peopl, say, vaccin, one, like, time, get, day, new",0.436
+1549,14.0,0.05,Channel News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.4
+1550,1.0,0.107,Channel News,"said, say, peopl, year, one, time, day, first, like, get",0.417
+1551,14.0,0.158,Channel News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.433
+1552,12.0,0.084,Channel News,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.419
+1553,10.0,-0.029,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.433
+1554,1.0,0.062,Channel News,"said, say, peopl, year, one, time, day, first, like, get",0.441
+1555,8.0,0.108,Channel News,"said, say, one, case, also, n’t, day, new, time, get",0.453
+1556,4.0,0.082,Channel News,"said, time, say, new, peopl, n’t, like, one, year, take",0.27
+1557,2.0,0.025,Channel News,"say, said, time, year, peopl, vaccin, first, like, also, work",0.54
+1558,9.0,-0.082,Channel News,"said, peopl, year, vaccin, like, first, also, time, back, one",0.478
+1559,14.0,0.277,Channel News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.533
+1560,11.0,-0.105,Channel News,"said, one, time, like, day, say, peopl, work, also, year",0.486
+1561,5.0,-0.005,Channel News,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.465
+1562,6.0,0.5,Channel News,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.5
+1563,1.0,0.212,Channel News,"said, say, peopl, year, one, time, day, first, like, get",0.318
+1564,7.0,-0.105,Channel News,"said, say, peopl, year, also, get, work, one, school, two",0.312
+1565,17.0,0.25,Channel News,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.25
+1566,15.0,-0.062,Channel News,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.188
+1567,16.0,0.136,Channel News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.455
+1568,16.0,-0.071,Channel News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.318
+1569,5.0,0.5,Channel News,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.625
+1570,14.0,0.094,Channel News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.477
+1571,11.0,0.054,Channel News,"said, one, time, like, day, say, peopl, work, also, year",0.322
+1572,2.0,0.242,Channel News,"say, said, time, year, peopl, vaccin, first, like, also, work",0.433
+1573,1.0,0.142,Channel News,"said, say, peopl, year, one, time, day, first, like, get",0.451
+1574,9.0,-0.055,Channel News,"said, peopl, year, vaccin, like, first, also, time, back, one",0.43
+1575,18.0,-0.077,Channel News,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.43
+1576,15.0,0.21,Channel News,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.509
+1577,8.0,0.0,Channel News,"said, say, one, case, also, n’t, day, new, time, get",0.0
+1578,16.0,0.0,Channel News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.3
+1579,16.0,0.5,Channel News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.5
+1580,18.0,0.232,Channel News,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.433
+1581,2.0,0.5,Channel News,"say, said, time, year, peopl, vaccin, first, like, also, work",0.5
+1582,11.0,0.036,Channel News,"said, one, time, like, day, say, peopl, work, also, year",0.336
+1583,2.0,0.118,Channel News,"say, said, time, year, peopl, vaccin, first, like, also, work",0.372
+1584,9.0,0.075,Channel News,"said, peopl, year, vaccin, like, first, also, time, back, one",0.391
+1585,16.0,0.116,Channel News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.394
+1586,18.0,0.156,Channel News,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.343
+1587,14.0,0.149,Channel News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.417
+1588,3.0,0.113,Channel News,"said, vaccin, say, peopl, new, report, time, one, also, year",0.292
+1589,18.0,0.139,Channel News,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.432
+1590,10.0,0.127,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.392
+1591,10.0,0.08,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.356
+1592,10.0,0.093,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.346
+1593,10.0,0.063,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.472
+1594,5.0,0.085,Channel News,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.435
+1595,10.0,0.172,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.49
+1596,10.0,0.242,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.458
+1597,12.0,0.022,Channel News,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.244
+1598,13.0,0.087,Channel News,"said, vaccin, say, one, like, also, week, peopl, use, year",0.489
+1599,6.0,0.031,Channel News,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.495
+1600,10.0,0.014,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.285
+1601,10.0,0.071,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.305
+1602,12.0,0.042,Channel News,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.436
+1603,17.0,0.042,Channel News,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.445
+1604,16.0,0.086,Channel News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.441
+1605,13.0,0.057,Channel News,"said, vaccin, say, one, like, also, week, peopl, use, year",0.638
+1606,17.0,-0.0,Channel News,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.441
+1607,12.0,0.102,Channel News,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.319
+1608,5.0,-0.082,Channel News,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.428
+1609,6.0,0.019,Channel News,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.304
+1610,10.0,0.205,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.392
+1611,6.0,0.046,Channel News,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.321
+1612,15.0,0.08,Channel News,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.376
+1613,11.0,0.013,Channel News,"said, one, time, like, day, say, peopl, work, also, year",0.213
+1614,14.0,-0.104,Channel News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.284
+1615,5.0,0.085,Channel News,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.374
+1616,6.0,-0.013,Channel News,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.381
+1617,10.0,0.076,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.421
+1618,17.0,0.07,Channel News,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.365
+1619,4.0,0.061,Channel News,"said, time, say, new, peopl, n’t, like, one, year, take",0.388
+1620,10.0,0.01,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.361
+1621,14.0,0.07,Channel News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.395
+1622,2.0,0.021,Channel News,"say, said, time, year, peopl, vaccin, first, like, also, work",0.28
+1623,10.0,0.0,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.1
+1624,14.0,-0.125,Channel News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.125
+1625,14.0,-0.125,Channel News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.125
+1626,12.0,0.375,Channel News,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.435
+1627,10.0,0.133,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.433
+1628,16.0,0.105,Channel News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.475
+1629,10.0,0.222,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.503
+1630,7.0,0.0,Channel News,"said, say, peopl, year, also, get, work, one, school, two",0.0
+1631,10.0,0.135,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.558
+1632,5.0,0.194,Channel News,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.377
+1633,2.0,0.315,Channel News,"say, said, time, year, peopl, vaccin, first, like, also, work",0.417
+1634,2.0,0.278,Channel News,"say, said, time, year, peopl, vaccin, first, like, also, work",0.428
+1635,1.0,0.194,Channel News,"said, say, peopl, year, one, time, day, first, like, get",0.531
+1636,18.0,0.227,Channel News,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.491
+1637,10.0,0.138,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.525
+1638,14.0,-0.506,Channel News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.941
+1639,1.0,0.15,Channel News,"said, say, peopl, year, one, time, day, first, like, get",0.389
+1640,4.0,0.142,Channel News,"said, time, say, new, peopl, n’t, like, one, year, take",0.437
+1641,10.0,0.068,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.457
+1642,10.0,0.107,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.525
+1643,10.0,0.097,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.366
+1644,9.0,0.013,Channel News,"said, peopl, year, vaccin, like, first, also, time, back, one",0.454
+1645,13.0,0.236,Channel News,"said, vaccin, say, one, like, also, week, peopl, use, year",0.527
+1646,6.0,0.013,Channel News,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.359
+1647,6.0,0.124,Channel News,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.406
+1648,8.0,0.019,Channel News,"said, say, one, case, also, n’t, day, new, time, get",0.417
+1649,2.0,0.024,Channel News,"say, said, time, year, peopl, vaccin, first, like, also, work",0.405
+1650,10.0,0.083,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.395
+1651,10.0,0.125,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.452
+1652,7.0,0.02,Channel News,"said, say, peopl, year, also, get, work, one, school, two",0.263
+1653,10.0,-0.017,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.384
+1654,17.0,0.333,Channel News,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.486
+1655,6.0,0.297,Channel News,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.343
+1656,17.0,0.047,Channel News,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.151
+1657,5.0,0.167,Channel News,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.333
+1658,3.0,0.136,Channel News,"said, vaccin, say, peopl, new, report, time, one, also, year",0.455
+1659,16.0,0.039,Channel News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.32
+1660,13.0,0.204,Channel News,"said, vaccin, say, one, like, also, week, peopl, use, year",0.46
+1661,3.0,0.037,Channel News,"said, vaccin, say, peopl, new, report, time, one, also, year",0.406
+1662,0.0,0.084,Channel News,"said, peopl, say, vaccin, one, like, time, get, day, new",0.431
+1663,10.0,0.007,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.366
+1664,14.0,-0.2,Channel News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.3
+1665,18.0,-0.108,Channel News,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.483
+1666,16.0,0.115,Channel News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.433
+1667,6.0,0.375,Channel News,"said, like, n’t, one, would, peopl, year, say, get, covid-19",0.575
+1668,8.0,0.467,Channel News,"said, say, one, case, also, n’t, day, new, time, get",0.4
+1669,8.0,0.5,Channel News,"said, say, one, case, also, n’t, day, new, time, get",0.533
+1670,15.0,0.6,Channel News,"said, vaccin, get, say, peopl, day, covid-19, year, would, time",0.375
+1671,8.0,0.35,Channel News,"said, say, one, case, also, n’t, day, new, time, get",0.3
+1672,0.0,0.067,Channel News,"said, peopl, say, vaccin, one, like, time, get, day, new",0.281
+1673,9.0,0.034,Channel News,"said, peopl, year, vaccin, like, first, also, time, back, one",0.381
+1674,1.0,0.132,Channel News,"said, say, peopl, year, one, time, day, first, like, get",0.382
+1675,1.0,0.234,Channel News,"said, say, peopl, year, one, time, day, first, like, get",0.331
+1676,17.0,0.16,Channel News,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.432
+1677,1.0,0.043,Channel News,"said, say, peopl, year, one, time, day, first, like, get",0.427
+1678,2.0,0.121,Channel News,"say, said, time, year, peopl, vaccin, first, like, also, work",0.373
+1679,10.0,0.033,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.34
+1680,16.0,0.112,Channel News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.409
+1681,3.0,0.07,Channel News,"said, vaccin, say, peopl, new, report, time, one, also, year",0.341
+1682,12.0,-0.034,Channel News,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.489
+1683,8.0,0.041,Channel News,"said, say, one, case, also, n’t, day, new, time, get",0.311
+1684,18.0,0.148,Channel News,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.378
+1685,17.0,0.084,Channel News,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.383
+1686,12.0,0.23,Channel News,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.376
+1687,18.0,0.174,Channel News,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.573
+1688,11.0,0.072,Channel News,"said, one, time, like, day, say, peopl, work, also, year",0.401
+1689,5.0,0.118,Channel News,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.489
+1690,12.0,0.267,Channel News,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.467
+1691,9.0,0.061,Channel News,"said, peopl, year, vaccin, like, first, also, time, back, one",0.135
+1692,5.0,0.043,Channel News,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.344
+1693,4.0,0.162,Channel News,"said, time, say, new, peopl, n’t, like, one, year, take",0.383
+1694,16.0,0.27,Channel News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.523
+1695,5.0,-0.033,Channel News,"said, one, n’t, year, also, time, would, vaccin, peopl, get",0.351
+1696,9.0,0.131,Channel News,"said, peopl, year, vaccin, like, first, also, time, back, one",0.463
+1697,11.0,0.456,Channel News,"said, one, time, like, day, say, peopl, work, also, year",0.516
+1698,7.0,0.27,Channel News,"said, say, peopl, year, also, get, work, one, school, two",0.494
+1699,16.0,0.192,Channel News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.479
+1700,9.0,0.023,Channel News,"said, peopl, year, vaccin, like, first, also, time, back, one",0.373
+1701,8.0,0.162,Channel News,"said, say, one, case, also, n’t, day, new, time, get",0.327
+1702,16.0,0.045,Channel News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.252
+1703,11.0,0.113,Channel News,"said, one, time, like, day, say, peopl, work, also, year",0.497
+1704,14.0,0.0,Channel News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.0
+1705,8.0,0.468,Channel News,"said, say, one, case, also, n’t, day, new, time, get",0.677
+1706,7.0,0.045,Channel News,"said, say, peopl, year, also, get, work, one, school, two",0.485
+1707,4.0,0.375,Channel News,"said, time, say, new, peopl, n’t, like, one, year, take",0.417
+1708,0.0,0.125,Channel News,"said, peopl, say, vaccin, one, like, time, get, day, new",0.181
+1709,14.0,0.067,Channel News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.363
+1710,18.0,0.22,Channel News,"said, say, peopl, year, like, get, time, n’t, covid-19, one",0.559
+1711,13.0,0.108,Channel News,"said, vaccin, say, one, like, also, week, peopl, use, year",0.479
+1712,11.0,0.029,Channel News,"said, one, time, like, day, say, peopl, work, also, year",0.267
+1713,16.0,0.053,Channel News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.328
+1714,16.0,0.168,Channel News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.394
+1715,11.0,0.161,Channel News,"said, one, time, like, day, say, peopl, work, also, year",0.429
+1716,16.0,0.096,Channel News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.339
+1717,12.0,0.017,Channel News,"peopl, also, say, said, one, covid-19, vaccin, time, get, work",0.364
+1718,1.0,0.075,Channel News,"said, say, peopl, year, one, time, day, first, like, get",0.237
+1719,16.0,0.0,Channel News,"said, vaccin, one, peopl, say, get, new, day, time, case",0.54
+1720,17.0,-0.089,Channel News,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.422
+1721,1.0,0.083,Channel News,"said, say, peopl, year, one, time, day, first, like, get",0.327
+1722,1.0,-0.033,Channel News,"said, say, peopl, year, one, time, day, first, like, get",0.167
+1723,17.0,0.2,Channel News,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.4
+1724,9.0,0.7,Channel News,"said, peopl, year, vaccin, like, first, also, time, back, one",0.6
+1725,17.0,0.3,Channel News,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.65
+1726,17.0,-0.089,Channel News,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.422
+1727,1.0,-0.033,Channel News,"said, say, peopl, year, one, time, day, first, like, get",0.167
+1728,13.0,0.176,Channel News,"said, vaccin, say, one, like, also, week, peopl, use, year",0.54
+1729,17.0,0.155,Channel News,"said, one, peopl, report, case, say, use, includ, time, vaccin",0.335
+1730,14.0,0.217,Channel News,"said, vaccin, covid-19, one, peopl, case, report, work, also, say",0.618
+1731,10.0,0.134,Channel News,"said, say, peopl, year, also, vaccin, one, make, like, servic",0.445
